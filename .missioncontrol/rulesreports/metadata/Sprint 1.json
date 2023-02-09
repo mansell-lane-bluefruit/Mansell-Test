@@ -1,0 +1,51 @@
+{
+  "QuoteNumber": "rwerew",
+  "Notes": "",
+  "Project": {
+    "Id": "97b02ecd-f4c7-4558-ac6c-7211a4f1e89f",
+    "Name": "Tester",
+    "GithubForkAddress": "https://github.com/mansell-lane-bluefruit/Mansell-Test",
+    "LocalGitPath": "repo/Tester",
+    "Workflow": {
+      "Id": 1,
+      "Name": "dadasd",
+      "WorkStates": [
+        {
+          "WorkStateId": 1,
+          "Index": 0,
+          "Name": "Done",
+          "IsTestable": false,
+          "IsDone": true,
+          "WorkflowId": 1,
+          "DefinitionOfDone": []
+        }
+      ]
+    },
+    "Sprints": [
+      {
+        "Id": 1000,
+        "Name": "Sprint 1",
+        "StartDate": "2023-02-09T16:34:45.6571429+00:00",
+        "EndDate": "2023-02-23T16:34:45.6571766+00:00",
+        "Feedback": [],
+        "Ratings": [],
+        "IsCompleted": false
+      }
+    ],
+    "UserNames": [
+      "mansell.lane@bluefruit.co.uk"
+    ],
+    "EnforceDefinitionOfDone": false,
+    "GithubPRTargetAddress": "https://github.com/mansell-lane-bluefruit/Mansell-Test",
+    "FeatureFilesLocation": ""
+  },
+  "Sprint": {
+    "Id": 1000,
+    "Name": "Sprint 1",
+    "StartDate": "2023-02-09T16:34:45.6571429+00:00",
+    "EndDate": "2023-02-23T16:34:45.6571766+00:00",
+    "Feedback": [],
+    "Ratings": [],
+    "IsCompleted": false
+  }
+}

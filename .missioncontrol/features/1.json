@@ -1,0 +1,27 @@
+{
+  "Id": 1,
+  "Tags": [],
+  "Description": "rwerwe",
+  "Attachments": [],
+  "Rules": [
+    {
+      "Id": 2,
+      "Text": "\u003Cinput\u003E \u003C/input\u003E Hello world",
+      "Scenarios": [
+        {
+          "Tags": [],
+          "LinkedUserStoryIds": [
+            1
+          ],
+          "Id": 3,
+          "Name": "\u003Cinput\u003E \u003C/input\u003E Hello world",
+          "Steps": "\u003Cinput\u003E \u003C/input\u003E Hello world",
+          "TestResult": 0,
+          "Comment": null,
+          "TestTimestamp": ""
+        }
+      ]
+    }
+  ],
+  "Name": "dwerwerwe"
+}

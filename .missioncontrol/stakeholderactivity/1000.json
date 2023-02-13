@@ -78,5 +78,80 @@
     "Role": "Admin",
     "TimeStamp": "2023-02-10T11:39:00.9646344+00:00",
     "Tab": "Rules Report"
+  },
+  {
+    "Role": "Admin",
+    "TimeStamp": "2023-02-13T11:02:13.4640478+00:00",
+    "Tab": "Acceptance Test Report"
+  },
+  {
+    "Role": "Admin",
+    "TimeStamp": "2023-02-13T11:02:13.9746217+00:00",
+    "Tab": "Automated Test Report"
+  },
+  {
+    "Role": "Admin",
+    "TimeStamp": "2023-02-13T11:02:14.3821034+00:00",
+    "Tab": "Custom Test Reports"
+  },
+  {
+    "Role": "Admin",
+    "TimeStamp": "2023-02-13T11:02:14.9425512+00:00",
+    "Tab": "Sprint Feedback"
+  },
+  {
+    "Role": "Admin",
+    "TimeStamp": "2023-02-13T11:02:15.2889983+00:00",
+    "Tab": "Known Defects"
+  },
+  {
+    "Role": "Admin",
+    "TimeStamp": "2023-02-13T11:02:15.6707199+00:00",
+    "Tab": "Fixed Defects"
+  },
+  {
+    "Role": "Admin",
+    "TimeStamp": "2023-02-13T11:02:16.162576+00:00",
+    "Tab": "Fixed Defects"
+  },
+  {
+    "Role": "Admin",
+    "TimeStamp": "2023-02-13T11:03:13.7955119+00:00",
+    "Tab": "Known Defects"
+  },
+  {
+    "Role": "Admin",
+    "TimeStamp": "2023-02-13T11:03:16.2004907+00:00",
+    "Tab": "Sprint Feedback"
+  },
+  {
+    "Role": "Admin",
+    "TimeStamp": "2023-02-13T11:03:16.7620969+00:00",
+    "Tab": "Known Defects"
+  },
+  {
+    "Role": "Admin",
+    "TimeStamp": "2023-02-13T11:03:17.3889375+00:00",
+    "Tab": "Fixed Defects"
+  },
+  {
+    "Role": "Admin",
+    "TimeStamp": "2023-02-13T11:03:18.2675643+00:00",
+    "Tab": "Known Defects"
+  },
+  {
+    "Role": "Admin",
+    "TimeStamp": "2023-02-13T11:03:19.5150308+00:00",
+    "Tab": "Sprint Feedback"
+  },
+  {
+    "Role": "Admin",
+    "TimeStamp": "2023-02-13T11:03:20.3959171+00:00",
+    "Tab": "Sprint Feedback"
+  },
+  {
+    "Role": "Admin",
+    "TimeStamp": "2023-02-13T11:03:20.5794841+00:00",
+    "Tab": "Known Defects"
   }
 ]

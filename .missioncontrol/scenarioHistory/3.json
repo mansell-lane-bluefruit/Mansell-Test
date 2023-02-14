@@ -116,5 +116,21 @@
       "Comment": null,
       "TestTimestamp": ""
     }
+  },
+  {
+    "UserName": "mansell.lane@bluefruit.co.uk",
+    "TimeStamp": "2023-02-14T09:49:29.48769+00:00",
+    "Scenario": {
+      "Tags": [],
+      "LinkedUserStoryIds": [
+        1
+      ],
+      "Id": 3,
+      "Name": "\u003Cinput\u003E \u003C/input\u003E Hello world",
+      "Steps": "",
+      "TestResult": 0,
+      "Comment": null,
+      "TestTimestamp": ""
+    }
   }
 ]

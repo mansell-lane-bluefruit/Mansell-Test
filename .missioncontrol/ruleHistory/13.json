@@ -1,0 +1,33 @@
+[
+  {
+    "UserName": "mansell.lane@bluefruit.co.uk",
+    "TimeStamp": "2023-02-14T09:59:57.701817+00:00",
+    "Rule": {
+      "Id": 13,
+      "Text": "Top shagger",
+      "Scenarios": []
+    },
+    "FeatureId": 1
+  },
+  {
+    "UserName": "mansell.lane@bluefruit.co.uk",
+    "TimeStamp": "2023-02-14T10:00:08.4486029+00:00",
+    "Rule": {
+      "Id": 13,
+      "Text": "Top shagger",
+      "Scenarios": [
+        {
+          "Tags": [],
+          "LinkedUserStoryIds": [],
+          "Id": 14,
+          "Name": "Lewi is a top shagger",
+          "Steps": "",
+          "TestResult": 0,
+          "Comment": null,
+          "TestTimestamp": ""
+        }
+      ]
+    },
+    "FeatureId": 1
+  }
+]

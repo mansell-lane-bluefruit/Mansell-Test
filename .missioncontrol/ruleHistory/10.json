@@ -1,0 +1,12 @@
+[
+  {
+    "UserName": "mansell.lane@bluefruit.co.uk",
+    "TimeStamp": "2023-02-14T09:50:48.6411141+00:00",
+    "Rule": {
+      "Id": 10,
+      "Text": "Yup",
+      "Scenarios": []
+    },
+    "FeatureId": 1
+  }
+]

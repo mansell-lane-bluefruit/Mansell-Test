@@ -30,5 +30,21 @@
       "Comment": null,
       "TestTimestamp": ""
     }
+  },
+  {
+    "UserName": "mansell.lane@bluefruit.co.uk",
+    "TimeStamp": "2023-02-14T09:50:48.6694286+00:00",
+    "Scenario": {
+      "Tags": [],
+      "LinkedUserStoryIds": [
+        1
+      ],
+      "Id": 6,
+      "Name": "\u003Chtml\u003E \u003Chead\u003E \u003Cstyle\u003E",
+      "Steps": "",
+      "TestResult": 0,
+      "Comment": null,
+      "TestTimestamp": ""
+    }
   }
 ]

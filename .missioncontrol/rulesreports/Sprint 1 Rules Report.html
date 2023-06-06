@@ -20,10 +20,10 @@
     position: relative;
 }
 
-    .section h2 {
-        font-family: "Arial Black", Arial, Helvetica, 'Open Sans', sans-serif;
-        font-weight: normal;
-    }
+.section h2 {
+    font-family: "Arial Black", Arial, Helvetica, 'Open Sans', sans-serif;
+    font-weight: normal;
+}
 
 .heading {
     margin-top: 20px;
@@ -199,15 +199,15 @@
     width: inherit;
 }
 
-    #toc ul {
-        list-style-type: none;
-        margin-right: 30px;
-    }
+#toc ul {
+    list-style-type: none;
+    margin-right: 30px;
+}
 
-    #toc li a::after {
-        content: attr(page);
-        float: right;
-    }
+#toc li a::after {
+    content: attr(page);
+    float: right;
+}
 
 .toc-underline {
     display: block;
@@ -314,7 +314,7 @@
     <h1 id="rule-report-project-name" class="title">Tester</h1><!--!-->
     <!--!--><h2 class="subtitle">Bluefruit Software</h2>
     <!--!--><h2 class="subtitle">Rule Report</h2>
-    <p id="rule-report-date" class="date">02.10.2023</p><!--!-->
+    <p id="rule-report-date" class="date">06.06.2023</p><!--!-->
     <!--!--><p class="heading">Version</p>
     <p id="rule-report-sprint" class="value">Sprint 1</p><!--!-->
     <!--!--><p class="heading">Quote Number(s)</p>
@@ -340,6 +340,10 @@
                 <!--!--><li><a pagename="rules-notes-page-number" page="3" onclick="document.getElementById('rules-notes-page').scrollIntoView({behavior:'smooth'})">Notes</a></li>
                 <div class="toc-underline sb-rule-notes"></div>
 
+                    <li><a pagename="toc-feature-0" page="4" onclick="document.getElementById('feature-group-0').scrollIntoView({behavior:'smooth'})">Features</a></li><!--!-->
+                    <div class="toc-underline sb-rule-features-0"></div><!--!-->
+                    <li><a pagename="toc-feature-1" page="5" onclick="document.getElementById('feature-group-1').scrollIntoView({behavior:'smooth'})">sdfsdfsd</a></li><!--!-->
+                    <div class="toc-underline sb-rule-features-1"></div><!--!-->
             </ul><!--!-->
         </div><!--!-->
     </div><!--!-->
@@ -364,7 +368,46 @@
 </div><!--!-->
     </div><!--!-->
     
-    <!--!--><!--!-->
+    <!--!-->    <div id="feature-section" class="section"><!--!-->
+        <div id="toc-feature-0" class="page-number">4</div><!--!-->
+        <div class="table-row"><!--!-->
+            <div id="sidebar" class="table-column col-left side-bar-wrapper"><!--!-->
+                <div class="side-bar sb-rule-features-0"><!--!-->
+                    <div id="feature-group-0" class="side-bar-text toc-item">Features</div><!--!-->
+                </div><!--!-->
+            </div><!--!-->
+
+            <div class="rule-details"><!--!-->
+                    <div class="feature"><!--!-->
+                        <div id="feature-name-1" class="feature-name"><b>1</b> - dwerwerwe</div><!--!-->
+                            <!--!--><div class="caption">Description:</div>
+                            <div id="feature-1-description" class="description"><!--!-->
+rwerwe<!--!--><br>
+                            </div><!--!-->
+                            <div id="feature-rule-2" class="rule"><b class="rule-id">2</b> - &lt;input&gt; &lt;/input&gt; Hello world</div><!--!-->
+                            <div id="feature-rule-4" class="rule"><b class="rule-id">4</b> - Nice</div><!--!-->
+                            <div id="feature-rule-13" class="rule"><b class="rule-id">13</b> - Top shagger</div><!--!-->
+                    </div><!--!-->
+            </div><!--!-->
+        </div><!--!-->
+    </div><!--!-->
+    <div id="feature-section" class="section"><!--!-->
+        <div id="toc-feature-1" class="page-number">5</div><!--!-->
+        <div class="table-row"><!--!-->
+            <div id="sidebar" class="table-column col-left side-bar-wrapper"><!--!-->
+                <div class="side-bar sb-rule-features-1"><!--!-->
+                    <div id="feature-group-1" class="side-bar-text toc-item">sdfsdfsd</div><!--!-->
+                </div><!--!-->
+            </div><!--!-->
+
+            <div class="rule-details"><!--!-->
+                    <div class="feature"><!--!-->
+                        <div id="feature-name-7" class="feature-name"><b>7</b> - fdsfds</div><!--!-->
+                    </div><!--!-->
+            </div><!--!-->
+        </div><!--!-->
+    </div><!--!-->
+<!--!-->
 </div>
 </body>
 </html>

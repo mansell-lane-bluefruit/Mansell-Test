@@ -173,5 +173,30 @@
     "Role": "Admin",
     "TimeStamp": "2023-06-06T08:57:42.8426695+01:00",
     "Tab": "Pull Request Report"
+  },
+  {
+    "Role": "Admin",
+    "TimeStamp": "2023-06-06T09:00:38.5349062+01:00",
+    "Tab": "Rules Report"
+  },
+  {
+    "Role": "Admin",
+    "TimeStamp": "2023-06-06T09:00:38.962213+01:00",
+    "Tab": "Automated Test Report"
+  },
+  {
+    "Role": "Admin",
+    "TimeStamp": "2023-06-06T09:00:40.5042635+01:00",
+    "Tab": "Rules Report"
+  },
+  {
+    "Role": "Admin",
+    "TimeStamp": "2023-06-06T09:00:46.9915589+01:00",
+    "Tab": "Pull Request Report"
+  },
+  {
+    "Role": "Admin",
+    "TimeStamp": "2023-06-06T09:00:52.2388204+01:00",
+    "Tab": "Rules Report"
   }
 ]

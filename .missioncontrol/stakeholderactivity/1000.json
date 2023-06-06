@@ -158,5 +158,15 @@
     "Role": "Admin",
     "TimeStamp": "2023-02-14T11:01:16.1817538+00:00",
     "Tab": "Rules Report"
+  },
+  {
+    "Role": "Admin",
+    "TimeStamp": "2023-06-06T08:51:56.1507913+01:00",
+    "Tab": "Pull Request Report"
+  },
+  {
+    "Role": "Admin",
+    "TimeStamp": "2023-06-06T08:52:39.9571859+01:00",
+    "Tab": "Pull Request Report"
   }
 ]

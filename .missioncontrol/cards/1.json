@@ -22,7 +22,11 @@
   "UsersAssigned": [],
   "DefinitionOfDoneChecklistItems": [],
   "TaskChecklist": [],
-  "AssignedPullRequests": [],
+  "AssignedPullRequests": [
+    31,
+    32,
+    4
+  ],
   "TimeInFlightEntries": [
     {
       "EntryTime": 1676283191,

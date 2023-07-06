@@ -4,7 +4,7 @@
   "Content": "\u003Cp\u003EIts fucked\u003C/p\u003E",
   "Status": "Done",
   "Priority": 0,
-  "Effort": 0,
+  "Effort": 33,
   "Type": 0,
   "Sprint": {
     "Id": 1000,
@@ -18,7 +18,7 @@
   "LastUpdated": "0001-01-01T00:00:00",
   "Tags": [],
   "Comments": [],
-  "Index": 0,
+  "Index": 1,
   "UsersAssigned": [],
   "DefinitionOfDoneChecklistItems": [],
   "TaskChecklist": [],

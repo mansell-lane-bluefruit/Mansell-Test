@@ -8,8 +8,17 @@
     "Name": "dadasd",
     "WorkStates": [
       {
-        "WorkStateId": 1,
+        "WorkStateId": 2,
         "Index": 0,
+        "Name": "This is a new workstate",
+        "IsTestable": false,
+        "IsDone": false,
+        "WorkflowId": 1,
+        "DefinitionOfDone": []
+      },
+      {
+        "WorkStateId": 1,
+        "Index": 1,
         "Name": "Done",
         "IsTestable": false,
         "IsDone": true,

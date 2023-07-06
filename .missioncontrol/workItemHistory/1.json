@@ -150,5 +150,97 @@
         }
       ]
     }
+  },
+  {
+    "UserName": "mansell.lane@bluefruit.co.uk",
+    "TimeStamp": "2023-07-06T17:07:37.2570247+01:00",
+    "workItem": {
+      "Id": 1,
+      "Title": "Damn some",
+      "Content": "\u003Cp\u003EIts fucked\u003C/p\u003E",
+      "Status": "This is a new workstate",
+      "Priority": 0,
+      "Effort": 33,
+      "Type": 0,
+      "Sprint": {
+        "Id": 1000,
+        "Name": "Sprint 1",
+        "StartDate": "2023-02-09T16:34:45.6571429+00:00",
+        "EndDate": "2023-02-23T16:34:45.6571766+00:00",
+        "Feedback": [],
+        "Ratings": [],
+        "IsCompleted": false
+      },
+      "LastUpdated": "0001-01-01T00:00:00",
+      "Tags": [],
+      "Comments": [],
+      "Index": 0,
+      "UsersAssigned": [],
+      "DefinitionOfDoneChecklistItems": [],
+      "TaskChecklist": [],
+      "AssignedPullRequests": [
+        31,
+        32,
+        4
+      ],
+      "TimeInFlightEntries": [
+        {
+          "EntryTime": 1676283191,
+          "WorkStateId": "Done"
+        },
+        {
+          "EntryTime": 1688659657,
+          "WorkStateId": "This is a new workstate"
+        }
+      ]
+    }
+  },
+  {
+    "UserName": "mansell.lane@bluefruit.co.uk",
+    "TimeStamp": "2023-07-06T17:07:42.9927203+01:00",
+    "workItem": {
+      "Id": 1,
+      "Title": "Damn some",
+      "Content": "\u003Cp\u003EIts fucked\u003C/p\u003E",
+      "Status": "Done",
+      "Priority": 0,
+      "Effort": 33,
+      "Type": 0,
+      "Sprint": {
+        "Id": 1000,
+        "Name": "Sprint 1",
+        "StartDate": "2023-02-09T16:34:45.6571429+00:00",
+        "EndDate": "2023-02-23T16:34:45.6571766+00:00",
+        "Feedback": [],
+        "Ratings": [],
+        "IsCompleted": false
+      },
+      "LastUpdated": "0001-01-01T00:00:00",
+      "Tags": [],
+      "Comments": [],
+      "Index": 0,
+      "UsersAssigned": [],
+      "DefinitionOfDoneChecklistItems": [],
+      "TaskChecklist": [],
+      "AssignedPullRequests": [
+        31,
+        32,
+        4
+      ],
+      "TimeInFlightEntries": [
+        {
+          "EntryTime": 1676283191,
+          "WorkStateId": "Done"
+        },
+        {
+          "EntryTime": 1688659657,
+          "WorkStateId": "This is a new workstate"
+        },
+        {
+          "EntryTime": 1688659662,
+          "WorkStateId": "Done"
+        }
+      ]
+    }
   }
 ]

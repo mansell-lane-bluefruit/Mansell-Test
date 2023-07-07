@@ -36,6 +36,15 @@
       "Feedback": [],
       "Ratings": [],
       "IsCompleted": false
+    },
+    {
+      "Id": 1001,
+      "Name": "Sprint 2",
+      "StartDate": "2023-07-07T00:00:00+01:00",
+      "EndDate": "2023-07-21T00:00:00+01:00",
+      "Feedback": [],
+      "Ratings": [],
+      "IsCompleted": false
     }
   ],
   "UserNames": [

@@ -2,7 +2,7 @@
   "Id": 2,
   "Title": "Jeff",
   "Content": "\u003Cp\u003Eewqeqw\u003C/p\u003E",
-  "Status": "Done",
+  "Status": "This is a new workstate",
   "Priority": 0,
   "Effort": 0,
   "Type": 0,
@@ -219,6 +219,26 @@
     {
       "EntryTime": 1689242076,
       "WorkStateId": "Done"
+    },
+    {
+      "EntryTime": 1689244031,
+      "WorkStateId": "This is a new workstate"
+    },
+    {
+      "EntryTime": 1689245625,
+      "WorkStateId": "Done"
+    },
+    {
+      "EntryTime": 1689245627,
+      "WorkStateId": "This is a new workstate"
+    },
+    {
+      "EntryTime": 1689245628,
+      "WorkStateId": "Done"
+    },
+    {
+      "EntryTime": 1689245642,
+      "WorkStateId": "This is a new workstate"
     }
   ]
 }

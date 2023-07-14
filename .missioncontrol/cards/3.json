@@ -7,10 +7,10 @@
   "Effort": 0,
   "Type": 0,
   "Sprint": {
-    "Id": 1000,
-    "Name": "Sprint 1",
-    "StartDate": "2023-02-09T16:34:45.6571429+00:00",
-    "EndDate": "2023-02-23T16:34:45.6571766+00:00",
+    "Id": 1001,
+    "Name": "Sprint 2",
+    "StartDate": "2023-07-07T00:00:00+01:00",
+    "EndDate": "2023-07-21T00:00:00+01:00",
     "Feedback": [],
     "Ratings": [],
     "IsCompleted": false
@@ -340,6 +340,14 @@
     },
     {
       "EntryTime": 1689350525,
+      "WorkStateId": "This is a new workstate"
+    },
+    {
+      "EntryTime": 1689353019,
+      "WorkStateId": "Done"
+    },
+    {
+      "EntryTime": 1689353021,
       "WorkStateId": "This is a new workstate"
     }
   ]

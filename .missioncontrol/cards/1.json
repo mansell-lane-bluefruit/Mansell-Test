@@ -2,7 +2,7 @@
   "Id": 1,
   "Title": "Damn some",
   "Content": "\u003Cp\u003EIts fucked\u003C/p\u003E",
-  "Status": "Done",
+  "Status": "This is a new workstate",
   "Priority": 0,
   "Effort": 33,
   "Type": 0,
@@ -455,6 +455,34 @@
     {
       "EntryTime": 1689352637,
       "WorkStateId": "Done"
+    },
+    {
+      "EntryTime": 1689352726,
+      "WorkStateId": "This is a new workstate"
+    },
+    {
+      "EntryTime": 1689352881,
+      "WorkStateId": "Done"
+    },
+    {
+      "EntryTime": 1689352885,
+      "WorkStateId": "This is a new workstate"
+    },
+    {
+      "EntryTime": 1689352918,
+      "WorkStateId": "Done"
+    },
+    {
+      "EntryTime": 1689353015,
+      "WorkStateId": "This is a new workstate"
+    },
+    {
+      "EntryTime": 1689353031,
+      "WorkStateId": "Done"
+    },
+    {
+      "EntryTime": 1689355777,
+      "WorkStateId": "This is a new workstate"
     }
   ]
 }

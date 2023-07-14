@@ -2,7 +2,7 @@
   "Id": 1,
   "Title": "Damn some",
   "Content": "\u003Cp\u003EIts fucked\u003C/p\u003E",
-  "Status": "This is a new workstate",
+  "Status": "Done",
   "Priority": 0,
   "Effort": 33,
   "Type": 0,
@@ -483,6 +483,10 @@
     {
       "EntryTime": 1689355777,
       "WorkStateId": "This is a new workstate"
+    },
+    {
+      "EntryTime": 1689355925,
+      "WorkStateId": "Done"
     }
   ]
 }

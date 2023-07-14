@@ -2,7 +2,7 @@
   "Id": 3,
   "Title": "Ya sbitch",
   "Content": "\u003Cp\u003Efsdfsd\u003C/p\u003E",
-  "Status": "This is a new workstate",
+  "Status": "Done",
   "Priority": 0,
   "Effort": 0,
   "Type": 0,
@@ -349,6 +349,10 @@
     {
       "EntryTime": 1689353021,
       "WorkStateId": "This is a new workstate"
+    },
+    {
+      "EntryTime": 1689355916,
+      "WorkStateId": "Done"
     }
   ]
 }

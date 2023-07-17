@@ -387,6 +387,14 @@
     {
       "EntryTime": 1689595875,
       "WorkStateId": "Done"
+    },
+    {
+      "EntryTime": 1689596007,
+      "WorkStateId": "This is a new workstate"
+    },
+    {
+      "EntryTime": 1689596010,
+      "WorkStateId": "Done"
     }
   ]
 }

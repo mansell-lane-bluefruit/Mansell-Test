@@ -2,7 +2,7 @@
   "Id": 3,
   "Title": "Ya sbitch",
   "Content": "\u003Cp\u003Efsdfsd\u003C/p\u003E",
-  "Status": "Done",
+  "Status": "This is a new workstate",
   "Priority": 0,
   "Effort": 0,
   "Type": 0,
@@ -725,6 +725,50 @@
     {
       "EntryTime": 1689604782,
       "WorkStateId": "Done"
+    },
+    {
+      "EntryTime": 1689604972,
+      "WorkStateId": "This is a new workstate"
+    },
+    {
+      "EntryTime": 1689604973,
+      "WorkStateId": "Done"
+    },
+    {
+      "EntryTime": 1689604975,
+      "WorkStateId": "This is a new workstate"
+    },
+    {
+      "EntryTime": 1689604976,
+      "WorkStateId": "Done"
+    },
+    {
+      "EntryTime": 1689604983,
+      "WorkStateId": "This is a new workstate"
+    },
+    {
+      "EntryTime": 1689604985,
+      "WorkStateId": "Done"
+    },
+    {
+      "EntryTime": 1689604987,
+      "WorkStateId": "This is a new workstate"
+    },
+    {
+      "EntryTime": 1689604987,
+      "WorkStateId": "Done"
+    },
+    {
+      "EntryTime": 1689604992,
+      "WorkStateId": "This is a new workstate"
+    },
+    {
+      "EntryTime": 1689604993,
+      "WorkStateId": "Done"
+    },
+    {
+      "EntryTime": 1689604996,
+      "WorkStateId": "This is a new workstate"
     }
   ]
 }

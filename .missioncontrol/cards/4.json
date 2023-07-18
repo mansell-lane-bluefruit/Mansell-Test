@@ -1,0 +1,56 @@
+{
+  "Id": 4,
+  "Title": "sas",
+  "Content": "\u003Cp\u003Esasasa\u003C/p\u003E",
+  "Status": "This is a new workstate",
+  "Priority": 0,
+  "Effort": 0,
+  "Type": 0,
+  "Sprint": {
+    "Id": 1001,
+    "Name": "Sprint 2",
+    "StartDate": "2023-07-07T00:00:00+01:00",
+    "EndDate": "2023-07-21T00:00:00+01:00",
+    "Feedback": [],
+    "Ratings": [],
+    "IsCompleted": false
+  },
+  "LastUpdated": "0001-01-01T00:00:00",
+  "Tags": [],
+  "Comments": [],
+  "Index": 0,
+  "UsersAssigned": [],
+  "DefinitionOfDoneChecklistItems": [],
+  "TaskChecklist": [],
+  "AssignedPullRequests": [],
+  "TimeInFlightEntries": [
+    {
+      "EntryTime": 1689677338,
+      "WorkStateId": "This is a new workstate"
+    },
+    {
+      "EntryTime": 1689677348,
+      "WorkStateId": "Done"
+    },
+    {
+      "EntryTime": 1689677349,
+      "WorkStateId": "This is a new workstate"
+    },
+    {
+      "EntryTime": 1689677353,
+      "WorkStateId": "Done"
+    },
+    {
+      "EntryTime": 1689677354,
+      "WorkStateId": "This is a new workstate"
+    },
+    {
+      "EntryTime": 1689677363,
+      "WorkStateId": "Done"
+    },
+    {
+      "EntryTime": 1689677363,
+      "WorkStateId": "This is a new workstate"
+    }
+  ]
+}

@@ -334,5 +334,273 @@
         }
       ]
     }
+  },
+  {
+    "UserName": "paul.paul@bluefruit.co.uk",
+    "TimeStamp": "2023-07-18T11:50:31.3523333+01:00",
+    "workItem": {
+      "Id": 4,
+      "Title": "sas",
+      "Content": "\u003Cp\u003Esasasa\u003C/p\u003E",
+      "Status": "Done",
+      "Priority": 0,
+      "Effort": 0,
+      "Type": 0,
+      "Sprint": {
+        "Id": 1001,
+        "Name": "Sprint 2",
+        "StartDate": "2023-07-07T00:00:00+01:00",
+        "EndDate": "2023-07-21T00:00:00+01:00",
+        "Feedback": [],
+        "Ratings": [],
+        "IsCompleted": false
+      },
+      "LastUpdated": "0001-01-01T00:00:00",
+      "Tags": [],
+      "Comments": [],
+      "Index": 1,
+      "UsersAssigned": [],
+      "DefinitionOfDoneChecklistItems": [],
+      "TaskChecklist": [],
+      "AssignedPullRequests": [],
+      "TimeInFlightEntries": [
+        {
+          "EntryTime": 1689677338,
+          "WorkStateId": "This is a new workstate"
+        },
+        {
+          "EntryTime": 1689677348,
+          "WorkStateId": "Done"
+        },
+        {
+          "EntryTime": 1689677349,
+          "WorkStateId": "This is a new workstate"
+        },
+        {
+          "EntryTime": 1689677353,
+          "WorkStateId": "Done"
+        },
+        {
+          "EntryTime": 1689677354,
+          "WorkStateId": "This is a new workstate"
+        },
+        {
+          "EntryTime": 1689677363,
+          "WorkStateId": "Done"
+        },
+        {
+          "EntryTime": 1689677363,
+          "WorkStateId": "This is a new workstate"
+        },
+        {
+          "EntryTime": 1689677431,
+          "WorkStateId": "Done"
+        }
+      ]
+    }
+  },
+  {
+    "UserName": "paul.paul@bluefruit.co.uk",
+    "TimeStamp": "2023-07-18T11:50:51.4828069+01:00",
+    "workItem": {
+      "Id": 4,
+      "Title": "sas",
+      "Content": "\u003Cp\u003Esasasa\u003C/p\u003E",
+      "Status": "Done",
+      "Priority": 0,
+      "Effort": 0,
+      "Type": 1,
+      "Sprint": {
+        "Id": 1001,
+        "Name": "Sprint 2",
+        "StartDate": "2023-07-07T00:00:00+01:00",
+        "EndDate": "2023-07-21T00:00:00+01:00",
+        "Feedback": [],
+        "Ratings": [],
+        "IsCompleted": false
+      },
+      "LastUpdated": "0001-01-01T00:00:00",
+      "Tags": [],
+      "Comments": [],
+      "Index": 2,
+      "UsersAssigned": [],
+      "DefinitionOfDoneChecklistItems": [],
+      "TaskChecklist": [],
+      "AssignedPullRequests": [],
+      "TimeInFlightEntries": [
+        {
+          "EntryTime": 1689677338,
+          "WorkStateId": "This is a new workstate"
+        },
+        {
+          "EntryTime": 1689677348,
+          "WorkStateId": "Done"
+        },
+        {
+          "EntryTime": 1689677349,
+          "WorkStateId": "This is a new workstate"
+        },
+        {
+          "EntryTime": 1689677353,
+          "WorkStateId": "Done"
+        },
+        {
+          "EntryTime": 1689677354,
+          "WorkStateId": "This is a new workstate"
+        },
+        {
+          "EntryTime": 1689677363,
+          "WorkStateId": "Done"
+        },
+        {
+          "EntryTime": 1689677363,
+          "WorkStateId": "This is a new workstate"
+        },
+        {
+          "EntryTime": 1689677431,
+          "WorkStateId": "Done"
+        }
+      ]
+    }
+  },
+  {
+    "UserName": "paul.paul@bluefruit.co.uk",
+    "TimeStamp": "2023-07-18T11:50:56.3840885+01:00",
+    "workItem": {
+      "Id": 4,
+      "Title": "sas",
+      "Content": "\u003Cp\u003Esasasa\u003C/p\u003E",
+      "Status": "This is a new workstate",
+      "Priority": 0,
+      "Effort": 0,
+      "Type": 1,
+      "Sprint": {
+        "Id": 1001,
+        "Name": "Sprint 2",
+        "StartDate": "2023-07-07T00:00:00+01:00",
+        "EndDate": "2023-07-21T00:00:00+01:00",
+        "Feedback": [],
+        "Ratings": [],
+        "IsCompleted": false
+      },
+      "LastUpdated": "0001-01-01T00:00:00",
+      "Tags": [],
+      "Comments": [],
+      "Index": 2,
+      "UsersAssigned": [],
+      "DefinitionOfDoneChecklistItems": [],
+      "TaskChecklist": [],
+      "AssignedPullRequests": [],
+      "TimeInFlightEntries": [
+        {
+          "EntryTime": 1689677338,
+          "WorkStateId": "This is a new workstate"
+        },
+        {
+          "EntryTime": 1689677348,
+          "WorkStateId": "Done"
+        },
+        {
+          "EntryTime": 1689677349,
+          "WorkStateId": "This is a new workstate"
+        },
+        {
+          "EntryTime": 1689677353,
+          "WorkStateId": "Done"
+        },
+        {
+          "EntryTime": 1689677354,
+          "WorkStateId": "This is a new workstate"
+        },
+        {
+          "EntryTime": 1689677363,
+          "WorkStateId": "Done"
+        },
+        {
+          "EntryTime": 1689677363,
+          "WorkStateId": "This is a new workstate"
+        },
+        {
+          "EntryTime": 1689677431,
+          "WorkStateId": "Done"
+        },
+        {
+          "EntryTime": 1689677456,
+          "WorkStateId": "This is a new workstate"
+        }
+      ]
+    }
+  },
+  {
+    "UserName": "paul.paul@bluefruit.co.uk",
+    "TimeStamp": "2023-07-18T11:50:57.5986958+01:00",
+    "workItem": {
+      "Id": 4,
+      "Title": "sas",
+      "Content": "\u003Cp\u003Esasasa\u003C/p\u003E",
+      "Status": "Done",
+      "Priority": 0,
+      "Effort": 0,
+      "Type": 1,
+      "Sprint": {
+        "Id": 1001,
+        "Name": "Sprint 2",
+        "StartDate": "2023-07-07T00:00:00+01:00",
+        "EndDate": "2023-07-21T00:00:00+01:00",
+        "Feedback": [],
+        "Ratings": [],
+        "IsCompleted": false
+      },
+      "LastUpdated": "0001-01-01T00:00:00",
+      "Tags": [],
+      "Comments": [],
+      "Index": 2,
+      "UsersAssigned": [],
+      "DefinitionOfDoneChecklistItems": [],
+      "TaskChecklist": [],
+      "AssignedPullRequests": [],
+      "TimeInFlightEntries": [
+        {
+          "EntryTime": 1689677338,
+          "WorkStateId": "This is a new workstate"
+        },
+        {
+          "EntryTime": 1689677348,
+          "WorkStateId": "Done"
+        },
+        {
+          "EntryTime": 1689677349,
+          "WorkStateId": "This is a new workstate"
+        },
+        {
+          "EntryTime": 1689677353,
+          "WorkStateId": "Done"
+        },
+        {
+          "EntryTime": 1689677354,
+          "WorkStateId": "This is a new workstate"
+        },
+        {
+          "EntryTime": 1689677363,
+          "WorkStateId": "Done"
+        },
+        {
+          "EntryTime": 1689677363,
+          "WorkStateId": "This is a new workstate"
+        },
+        {
+          "EntryTime": 1689677431,
+          "WorkStateId": "Done"
+        },
+        {
+          "EntryTime": 1689677456,
+          "WorkStateId": "This is a new workstate"
+        },
+        {
+          "EntryTime": 1689677457,
+          "WorkStateId": "Done"
+        }
+      ]
+    }
   }
 ]

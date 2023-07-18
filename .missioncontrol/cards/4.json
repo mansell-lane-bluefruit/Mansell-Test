@@ -2,10 +2,10 @@
   "Id": 4,
   "Title": "sas",
   "Content": "\u003Cp\u003Esasasa\u003C/p\u003E",
-  "Status": "This is a new workstate",
+  "Status": "Done",
   "Priority": 0,
   "Effort": 0,
-  "Type": 0,
+  "Type": 1,
   "Sprint": {
     "Id": 1001,
     "Name": "Sprint 2",
@@ -18,7 +18,7 @@
   "LastUpdated": "0001-01-01T00:00:00",
   "Tags": [],
   "Comments": [],
-  "Index": 0,
+  "Index": 2,
   "UsersAssigned": [],
   "DefinitionOfDoneChecklistItems": [],
   "TaskChecklist": [],
@@ -51,6 +51,18 @@
     {
       "EntryTime": 1689677363,
       "WorkStateId": "This is a new workstate"
+    },
+    {
+      "EntryTime": 1689677431,
+      "WorkStateId": "Done"
+    },
+    {
+      "EntryTime": 1689677456,
+      "WorkStateId": "This is a new workstate"
+    },
+    {
+      "EntryTime": 1689677457,
+      "WorkStateId": "Done"
     }
   ]
 }

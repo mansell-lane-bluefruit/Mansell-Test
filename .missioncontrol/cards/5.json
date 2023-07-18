@@ -1,0 +1,32 @@
+{
+  "Id": 5,
+  "Title": "hghg",
+  "Content": "\u003Cp\u003Egdfgffg\u003C/p\u003E",
+  "Status": "This is a new workstate",
+  "Priority": 0,
+  "Effort": 0,
+  "Type": 0,
+  "Sprint": {
+    "Id": 1001,
+    "Name": "Sprint 2",
+    "StartDate": "2023-07-07T00:00:00+01:00",
+    "EndDate": "2023-07-21T00:00:00+01:00",
+    "Feedback": [],
+    "Ratings": [],
+    "IsCompleted": false
+  },
+  "LastUpdated": "0001-01-01T00:00:00",
+  "Tags": [],
+  "Comments": [],
+  "Index": 1,
+  "UsersAssigned": [],
+  "DefinitionOfDoneChecklistItems": [],
+  "TaskChecklist": [],
+  "AssignedPullRequests": [],
+  "TimeInFlightEntries": [
+    {
+      "EntryTime": 1689677438,
+      "WorkStateId": "This is a new workstate"
+    }
+  ]
+}

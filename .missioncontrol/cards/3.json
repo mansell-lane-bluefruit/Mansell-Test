@@ -1629,6 +1629,30 @@
     {
       "EntryTime": 1689770196,
       "WorkStateId": "This is a new workstate"
+    },
+    {
+      "EntryTime": 1689771206,
+      "WorkStateId": "Done"
+    },
+    {
+      "EntryTime": 1689771209,
+      "WorkStateId": "This is a new workstate"
+    },
+    {
+      "EntryTime": 1689771303,
+      "WorkStateId": "Done"
+    },
+    {
+      "EntryTime": 1689771311,
+      "WorkStateId": "This is a new workstate"
+    },
+    {
+      "EntryTime": 1689771421,
+      "WorkStateId": "Done"
+    },
+    {
+      "EntryTime": 1689771422,
+      "WorkStateId": "This is a new workstate"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "Id": 4,
   "Title": "sas",
   "Content": "\u003Cp\u003Esasasa\u003C/p\u003E",
-  "Status": "Done",
+  "Status": "This is a new workstate",
   "Priority": 0,
   "Effort": 0,
   "Type": 1,
@@ -18,7 +18,7 @@
   "LastUpdated": "0001-01-01T00:00:00",
   "Tags": [],
   "Comments": [],
-  "Index": 3,
+  "Index": 5,
   "UsersAssigned": [],
   "DefinitionOfDoneChecklistItems": [],
   "TaskChecklist": [],
@@ -303,6 +303,26 @@
     {
       "EntryTime": 1689757963,
       "WorkStateId": "Done"
+    },
+    {
+      "EntryTime": 1689758128,
+      "WorkStateId": "This is a new workstate"
+    },
+    {
+      "EntryTime": 1689758136,
+      "WorkStateId": "Done"
+    },
+    {
+      "EntryTime": 1689758208,
+      "WorkStateId": "This is a new workstate"
+    },
+    {
+      "EntryTime": 1689758211,
+      "WorkStateId": "Done"
+    },
+    {
+      "EntryTime": 1689758227,
+      "WorkStateId": "This is a new workstate"
     }
   ]
 }

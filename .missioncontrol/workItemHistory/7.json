@@ -34,5 +34,89 @@
         }
       ]
     }
+  },
+  {
+    "UserName": "paul.paul@bluefruit.co.uk",
+    "TimeStamp": "2023-07-19T10:12:41.0578551+01:00",
+    "workItem": {
+      "Id": 7,
+      "Title": "I should be at the bottom",
+      "Content": "\u003Cp\u003Edadsdas\u003C/p\u003E",
+      "Status": "Done",
+      "Priority": 0,
+      "Effort": 0,
+      "Type": 0,
+      "Sprint": {
+        "Id": 1001,
+        "Name": "Sprint 2",
+        "StartDate": "2023-07-07T00:00:00+01:00",
+        "EndDate": "2023-07-21T00:00:00+01:00",
+        "Feedback": [],
+        "Ratings": [],
+        "IsCompleted": false
+      },
+      "LastUpdated": "0001-01-01T00:00:00",
+      "Tags": [],
+      "Comments": [],
+      "Index": 0,
+      "UsersAssigned": [],
+      "DefinitionOfDoneChecklistItems": [],
+      "TaskChecklist": [],
+      "AssignedPullRequests": [],
+      "TimeInFlightEntries": [
+        {
+          "EntryTime": 1689757666,
+          "WorkStateId": "This is a new workstate"
+        },
+        {
+          "EntryTime": 1689757961,
+          "WorkStateId": "Done"
+        }
+      ]
+    }
+  },
+  {
+    "UserName": "paul.paul@bluefruit.co.uk",
+    "TimeStamp": "2023-07-19T10:12:52.2153223+01:00",
+    "workItem": {
+      "Id": 7,
+      "Title": "I should be at the bottom",
+      "Content": "\u003Cp\u003Edadsdas\u003C/p\u003E",
+      "Status": "This is a new workstate",
+      "Priority": 0,
+      "Effort": 0,
+      "Type": 0,
+      "Sprint": {
+        "Id": 1001,
+        "Name": "Sprint 2",
+        "StartDate": "2023-07-07T00:00:00+01:00",
+        "EndDate": "2023-07-21T00:00:00+01:00",
+        "Feedback": [],
+        "Ratings": [],
+        "IsCompleted": false
+      },
+      "LastUpdated": "0001-01-01T00:00:00",
+      "Tags": [],
+      "Comments": [],
+      "Index": 1,
+      "UsersAssigned": [],
+      "DefinitionOfDoneChecklistItems": [],
+      "TaskChecklist": [],
+      "AssignedPullRequests": [],
+      "TimeInFlightEntries": [
+        {
+          "EntryTime": 1689757666,
+          "WorkStateId": "This is a new workstate"
+        },
+        {
+          "EntryTime": 1689757961,
+          "WorkStateId": "Done"
+        },
+        {
+          "EntryTime": 1689757972,
+          "WorkStateId": "This is a new workstate"
+        }
+      ]
+    }
   }
 ]

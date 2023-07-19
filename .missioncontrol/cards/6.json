@@ -18,7 +18,7 @@
   "LastUpdated": "0001-01-01T00:00:00",
   "Tags": [],
   "Comments": [],
-  "Index": 2,
+  "Index": 5,
   "UsersAssigned": [],
   "DefinitionOfDoneChecklistItems": [],
   "TaskChecklist": [],
@@ -26,6 +26,14 @@
   "TimeInFlightEntries": [
     {
       "EntryTime": 1689757657,
+      "WorkStateId": "This is a new workstate"
+    },
+    {
+      "EntryTime": 1689757955,
+      "WorkStateId": "Done"
+    },
+    {
+      "EntryTime": 1689757957,
       "WorkStateId": "This is a new workstate"
     }
   ]

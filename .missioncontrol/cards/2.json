@@ -18,7 +18,7 @@
   "LastUpdated": "0001-01-01T00:00:00",
   "Tags": [],
   "Comments": [],
-  "Index": 2,
+  "Index": 3,
   "UsersAssigned": [],
   "DefinitionOfDoneChecklistItems": [],
   "TaskChecklist": [],
@@ -1038,6 +1038,94 @@
     },
     {
       "EntryTime": 1689759098,
+      "WorkStateId": "This is a new workstate"
+    },
+    {
+      "EntryTime": 1689759175,
+      "WorkStateId": "Done"
+    },
+    {
+      "EntryTime": 1689759178,
+      "WorkStateId": "This is a new workstate"
+    },
+    {
+      "EntryTime": 1689759195,
+      "WorkStateId": "Done"
+    },
+    {
+      "EntryTime": 1689759197,
+      "WorkStateId": "This is a new workstate"
+    },
+    {
+      "EntryTime": 1689759254,
+      "WorkStateId": "Done"
+    },
+    {
+      "EntryTime": 1689759256,
+      "WorkStateId": "This is a new workstate"
+    },
+    {
+      "EntryTime": 1689759262,
+      "WorkStateId": "Done"
+    },
+    {
+      "EntryTime": 1689759263,
+      "WorkStateId": "This is a new workstate"
+    },
+    {
+      "EntryTime": 1689759270,
+      "WorkStateId": "Done"
+    },
+    {
+      "EntryTime": 1689759271,
+      "WorkStateId": "This is a new workstate"
+    },
+    {
+      "EntryTime": 1689759271,
+      "WorkStateId": "Done"
+    },
+    {
+      "EntryTime": 1689759272,
+      "WorkStateId": "This is a new workstate"
+    },
+    {
+      "EntryTime": 1689759273,
+      "WorkStateId": "Done"
+    },
+    {
+      "EntryTime": 1689759280,
+      "WorkStateId": "This is a new workstate"
+    },
+    {
+      "EntryTime": 1689759283,
+      "WorkStateId": "Done"
+    },
+    {
+      "EntryTime": 1689759285,
+      "WorkStateId": "This is a new workstate"
+    },
+    {
+      "EntryTime": 1689759286,
+      "WorkStateId": "Done"
+    },
+    {
+      "EntryTime": 1689759289,
+      "WorkStateId": "This is a new workstate"
+    },
+    {
+      "EntryTime": 1689759290,
+      "WorkStateId": "Done"
+    },
+    {
+      "EntryTime": 1689759292,
+      "WorkStateId": "This is a new workstate"
+    },
+    {
+      "EntryTime": 1689759293,
+      "WorkStateId": "Done"
+    },
+    {
+      "EntryTime": 1689759299,
       "WorkStateId": "This is a new workstate"
     }
   ]

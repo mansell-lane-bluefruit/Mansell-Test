@@ -18,7 +18,7 @@
   "LastUpdated": "0001-01-01T00:00:00",
   "Tags": [],
   "Comments": [],
-  "Index": 3,
+  "Index": 1,
   "UsersAssigned": [],
   "DefinitionOfDoneChecklistItems": [],
   "TaskChecklist": [],
@@ -1306,6 +1306,30 @@
     },
     {
       "EntryTime": 1689770125,
+      "WorkStateId": "Done"
+    },
+    {
+      "EntryTime": 1689770608,
+      "WorkStateId": "This is a new workstate"
+    },
+    {
+      "EntryTime": 1689770620,
+      "WorkStateId": "Done"
+    },
+    {
+      "EntryTime": 1689770667,
+      "WorkStateId": "This is a new workstate"
+    },
+    {
+      "EntryTime": 1689770678,
+      "WorkStateId": "Done"
+    },
+    {
+      "EntryTime": 1689770695,
+      "WorkStateId": "This is a new workstate"
+    },
+    {
+      "EntryTime": 1689770707,
       "WorkStateId": "Done"
     }
   ]

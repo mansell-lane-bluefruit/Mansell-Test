@@ -2,7 +2,7 @@
   "Id": 5,
   "Title": "hghg",
   "Content": "\u003Cp\u003Egdfgffg\u003C/p\u003E",
-  "Status": "Done",
+  "Status": "This is a new workstate",
   "Priority": 0,
   "Effort": 0,
   "Type": 0,
@@ -235,6 +235,18 @@
     {
       "EntryTime": 1689755965,
       "WorkStateId": "Done"
+    },
+    {
+      "EntryTime": 1689756471,
+      "WorkStateId": "This is a new workstate"
+    },
+    {
+      "EntryTime": 1689756501,
+      "WorkStateId": "Done"
+    },
+    {
+      "EntryTime": 1689756506,
+      "WorkStateId": "This is a new workstate"
     }
   ]
 }

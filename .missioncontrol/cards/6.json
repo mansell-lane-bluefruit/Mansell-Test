@@ -2,7 +2,7 @@
   "Id": 6,
   "Title": "gfdgdf",
   "Content": "\u003Cp\u003Egdfgdf\u003C/p\u003E",
-  "Status": "This is a new workstate",
+  "Status": "Done",
   "Priority": 0,
   "Effort": 0,
   "Type": 0,
@@ -203,6 +203,26 @@
     {
       "EntryTime": 1689765845,
       "WorkStateId": "This is a new workstate"
+    },
+    {
+      "EntryTime": 1689766786,
+      "WorkStateId": "Done"
+    },
+    {
+      "EntryTime": 1689766936,
+      "WorkStateId": "This is a new workstate"
+    },
+    {
+      "EntryTime": 1689766938,
+      "WorkStateId": "Done"
+    },
+    {
+      "EntryTime": 1689766963,
+      "WorkStateId": "This is a new workstate"
+    },
+    {
+      "EntryTime": 1689766965,
+      "WorkStateId": "Done"
     }
   ]
 }

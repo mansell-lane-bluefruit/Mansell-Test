@@ -499,6 +499,38 @@
     {
       "EntryTime": 1689762659,
       "WorkStateId": "This is a new workstate"
+    },
+    {
+      "EntryTime": 1689766708,
+      "WorkStateId": "Done"
+    },
+    {
+      "EntryTime": 1689766821,
+      "WorkStateId": "This is a new workstate"
+    },
+    {
+      "EntryTime": 1689766918,
+      "WorkStateId": "Done"
+    },
+    {
+      "EntryTime": 1689766944,
+      "WorkStateId": "This is a new workstate"
+    },
+    {
+      "EntryTime": 1689766947,
+      "WorkStateId": "Done"
+    },
+    {
+      "EntryTime": 1689766960,
+      "WorkStateId": "This is a new workstate"
+    },
+    {
+      "EntryTime": 1689767021,
+      "WorkStateId": "Done"
+    },
+    {
+      "EntryTime": 1689767031,
+      "WorkStateId": "This is a new workstate"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "Id": 7,
   "Title": "I should be at the bottom",
   "Content": "\u003Cp\u003Edadsdas\u003C/p\u003E",
-  "Status": "Done",
+  "Status": "This is a new workstate",
   "Priority": 0,
   "Effort": 0,
   "Type": 0,
@@ -18,7 +18,7 @@
   "LastUpdated": "0001-01-01T00:00:00",
   "Tags": [],
   "Comments": [],
-  "Index": 1,
+  "Index": 0,
   "UsersAssigned": [],
   "DefinitionOfDoneChecklistItems": [],
   "TaskChecklist": [],
@@ -239,6 +239,10 @@
     {
       "EntryTime": 1689765959,
       "WorkStateId": "Done"
+    },
+    {
+      "EntryTime": 1689766841,
+      "WorkStateId": "This is a new workstate"
     }
   ]
 }

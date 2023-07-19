@@ -3638,5 +3638,545 @@
         }
       ]
     }
+  },
+  {
+    "UserName": "mansell.lane@bluefruit.co.uk",
+    "TimeStamp": "2023-07-19T08:56:36.7514207+01:00",
+    "workItem": {
+      "Id": 5,
+      "Title": "hghg",
+      "Content": "\u003Cp\u003Egdfgffg\u003C/p\u003E",
+      "Status": "This is a new workstate",
+      "Priority": 0,
+      "Effort": 0,
+      "Type": 0,
+      "Sprint": {
+        "Id": 1001,
+        "Name": "Sprint 2",
+        "StartDate": "2023-07-07T00:00:00+01:00",
+        "EndDate": "2023-07-21T00:00:00+01:00",
+        "Feedback": [],
+        "Ratings": [],
+        "IsCompleted": false
+      },
+      "LastUpdated": "0001-01-01T00:00:00",
+      "Tags": [],
+      "Comments": [],
+      "Index": 4,
+      "UsersAssigned": [],
+      "DefinitionOfDoneChecklistItems": [],
+      "TaskChecklist": [],
+      "AssignedPullRequests": [],
+      "TimeInFlightEntries": [
+        {
+          "EntryTime": 1689677438,
+          "WorkStateId": "This is a new workstate"
+        },
+        {
+          "EntryTime": 1689677612,
+          "WorkStateId": "Done"
+        },
+        {
+          "EntryTime": 1689677623,
+          "WorkStateId": "This is a new workstate"
+        },
+        {
+          "EntryTime": 1689677631,
+          "WorkStateId": "Done"
+        },
+        {
+          "EntryTime": 1689677641,
+          "WorkStateId": "This is a new workstate"
+        },
+        {
+          "EntryTime": 1689677646,
+          "WorkStateId": "Done"
+        },
+        {
+          "EntryTime": 1689684282,
+          "WorkStateId": "This is a new workstate"
+        },
+        {
+          "EntryTime": 1689685712,
+          "WorkStateId": "Done"
+        },
+        {
+          "EntryTime": 1689686348,
+          "WorkStateId": "This is a new workstate"
+        },
+        {
+          "EntryTime": 1689686351,
+          "WorkStateId": "Done"
+        },
+        {
+          "EntryTime": 1689686354,
+          "WorkStateId": "This is a new workstate"
+        },
+        {
+          "EntryTime": 1689687047,
+          "WorkStateId": "Done"
+        },
+        {
+          "EntryTime": 1689687070,
+          "WorkStateId": "This is a new workstate"
+        },
+        {
+          "EntryTime": 1689687086,
+          "WorkStateId": "Done"
+        },
+        {
+          "EntryTime": 1689687117,
+          "WorkStateId": "This is a new workstate"
+        },
+        {
+          "EntryTime": 1689687130,
+          "WorkStateId": "Done"
+        },
+        {
+          "EntryTime": 1689687133,
+          "WorkStateId": "This is a new workstate"
+        },
+        {
+          "EntryTime": 1689687154,
+          "WorkStateId": "Done"
+        },
+        {
+          "EntryTime": 1689687347,
+          "WorkStateId": "This is a new workstate"
+        },
+        {
+          "EntryTime": 1689687444,
+          "WorkStateId": "Done"
+        },
+        {
+          "EntryTime": 1689687570,
+          "WorkStateId": "This is a new workstate"
+        },
+        {
+          "EntryTime": 1689687586,
+          "WorkStateId": "Done"
+        },
+        {
+          "EntryTime": 1689687716,
+          "WorkStateId": "This is a new workstate"
+        },
+        {
+          "EntryTime": 1689687718,
+          "WorkStateId": "Done"
+        },
+        {
+          "EntryTime": 1689688264,
+          "WorkStateId": "This is a new workstate"
+        },
+        {
+          "EntryTime": 1689688265,
+          "WorkStateId": "Done"
+        },
+        {
+          "EntryTime": 1689688272,
+          "WorkStateId": "This is a new workstate"
+        },
+        {
+          "EntryTime": 1689688420,
+          "WorkStateId": "Done"
+        },
+        {
+          "EntryTime": 1689688426,
+          "WorkStateId": "Done"
+        },
+        {
+          "EntryTime": 1689688428,
+          "WorkStateId": "This is a new workstate"
+        },
+        {
+          "EntryTime": 1689688680,
+          "WorkStateId": "Done"
+        },
+        {
+          "EntryTime": 1689752396,
+          "WorkStateId": "This is a new workstate"
+        },
+        {
+          "EntryTime": 1689752707,
+          "WorkStateId": "Done"
+        },
+        {
+          "EntryTime": 1689752709,
+          "WorkStateId": "This is a new workstate"
+        },
+        {
+          "EntryTime": 1689753317,
+          "WorkStateId": "Done"
+        },
+        {
+          "EntryTime": 1689753396,
+          "WorkStateId": "This is a new workstate"
+        }
+      ]
+    }
+  },
+  {
+    "UserName": "mansell.lane@bluefruit.co.uk",
+    "TimeStamp": "2023-07-19T08:56:40.8770301+01:00",
+    "workItem": {
+      "Id": 5,
+      "Title": "hghg",
+      "Content": "\u003Cp\u003Egdfgffg\u003C/p\u003E",
+      "Status": "Done",
+      "Priority": 0,
+      "Effort": 0,
+      "Type": 0,
+      "Sprint": {
+        "Id": 1001,
+        "Name": "Sprint 2",
+        "StartDate": "2023-07-07T00:00:00+01:00",
+        "EndDate": "2023-07-21T00:00:00+01:00",
+        "Feedback": [],
+        "Ratings": [],
+        "IsCompleted": false
+      },
+      "LastUpdated": "0001-01-01T00:00:00",
+      "Tags": [],
+      "Comments": [],
+      "Index": 0,
+      "UsersAssigned": [],
+      "DefinitionOfDoneChecklistItems": [],
+      "TaskChecklist": [],
+      "AssignedPullRequests": [],
+      "TimeInFlightEntries": [
+        {
+          "EntryTime": 1689677438,
+          "WorkStateId": "This is a new workstate"
+        },
+        {
+          "EntryTime": 1689677612,
+          "WorkStateId": "Done"
+        },
+        {
+          "EntryTime": 1689677623,
+          "WorkStateId": "This is a new workstate"
+        },
+        {
+          "EntryTime": 1689677631,
+          "WorkStateId": "Done"
+        },
+        {
+          "EntryTime": 1689677641,
+          "WorkStateId": "This is a new workstate"
+        },
+        {
+          "EntryTime": 1689677646,
+          "WorkStateId": "Done"
+        },
+        {
+          "EntryTime": 1689684282,
+          "WorkStateId": "This is a new workstate"
+        },
+        {
+          "EntryTime": 1689685712,
+          "WorkStateId": "Done"
+        },
+        {
+          "EntryTime": 1689686348,
+          "WorkStateId": "This is a new workstate"
+        },
+        {
+          "EntryTime": 1689686351,
+          "WorkStateId": "Done"
+        },
+        {
+          "EntryTime": 1689686354,
+          "WorkStateId": "This is a new workstate"
+        },
+        {
+          "EntryTime": 1689687047,
+          "WorkStateId": "Done"
+        },
+        {
+          "EntryTime": 1689687070,
+          "WorkStateId": "This is a new workstate"
+        },
+        {
+          "EntryTime": 1689687086,
+          "WorkStateId": "Done"
+        },
+        {
+          "EntryTime": 1689687117,
+          "WorkStateId": "This is a new workstate"
+        },
+        {
+          "EntryTime": 1689687130,
+          "WorkStateId": "Done"
+        },
+        {
+          "EntryTime": 1689687133,
+          "WorkStateId": "This is a new workstate"
+        },
+        {
+          "EntryTime": 1689687154,
+          "WorkStateId": "Done"
+        },
+        {
+          "EntryTime": 1689687347,
+          "WorkStateId": "This is a new workstate"
+        },
+        {
+          "EntryTime": 1689687444,
+          "WorkStateId": "Done"
+        },
+        {
+          "EntryTime": 1689687570,
+          "WorkStateId": "This is a new workstate"
+        },
+        {
+          "EntryTime": 1689687586,
+          "WorkStateId": "Done"
+        },
+        {
+          "EntryTime": 1689687716,
+          "WorkStateId": "This is a new workstate"
+        },
+        {
+          "EntryTime": 1689687718,
+          "WorkStateId": "Done"
+        },
+        {
+          "EntryTime": 1689688264,
+          "WorkStateId": "This is a new workstate"
+        },
+        {
+          "EntryTime": 1689688265,
+          "WorkStateId": "Done"
+        },
+        {
+          "EntryTime": 1689688272,
+          "WorkStateId": "This is a new workstate"
+        },
+        {
+          "EntryTime": 1689688420,
+          "WorkStateId": "Done"
+        },
+        {
+          "EntryTime": 1689688426,
+          "WorkStateId": "Done"
+        },
+        {
+          "EntryTime": 1689688428,
+          "WorkStateId": "This is a new workstate"
+        },
+        {
+          "EntryTime": 1689688680,
+          "WorkStateId": "Done"
+        },
+        {
+          "EntryTime": 1689752396,
+          "WorkStateId": "This is a new workstate"
+        },
+        {
+          "EntryTime": 1689752707,
+          "WorkStateId": "Done"
+        },
+        {
+          "EntryTime": 1689752709,
+          "WorkStateId": "This is a new workstate"
+        },
+        {
+          "EntryTime": 1689753317,
+          "WorkStateId": "Done"
+        },
+        {
+          "EntryTime": 1689753396,
+          "WorkStateId": "This is a new workstate"
+        },
+        {
+          "EntryTime": 1689753400,
+          "WorkStateId": "Done"
+        }
+      ]
+    }
+  },
+  {
+    "UserName": "mansell.lane@bluefruit.co.uk",
+    "TimeStamp": "2023-07-19T08:57:17.7859683+01:00",
+    "workItem": {
+      "Id": 5,
+      "Title": "hghg",
+      "Content": "\u003Cp\u003Egdfgffg\u003C/p\u003E",
+      "Status": "This is a new workstate",
+      "Priority": 0,
+      "Effort": 0,
+      "Type": 0,
+      "Sprint": {
+        "Id": 1001,
+        "Name": "Sprint 2",
+        "StartDate": "2023-07-07T00:00:00+01:00",
+        "EndDate": "2023-07-21T00:00:00+01:00",
+        "Feedback": [],
+        "Ratings": [],
+        "IsCompleted": false
+      },
+      "LastUpdated": "0001-01-01T00:00:00",
+      "Tags": [],
+      "Comments": [],
+      "Index": 4,
+      "UsersAssigned": [],
+      "DefinitionOfDoneChecklistItems": [],
+      "TaskChecklist": [],
+      "AssignedPullRequests": [],
+      "TimeInFlightEntries": [
+        {
+          "EntryTime": 1689677438,
+          "WorkStateId": "This is a new workstate"
+        },
+        {
+          "EntryTime": 1689677612,
+          "WorkStateId": "Done"
+        },
+        {
+          "EntryTime": 1689677623,
+          "WorkStateId": "This is a new workstate"
+        },
+        {
+          "EntryTime": 1689677631,
+          "WorkStateId": "Done"
+        },
+        {
+          "EntryTime": 1689677641,
+          "WorkStateId": "This is a new workstate"
+        },
+        {
+          "EntryTime": 1689677646,
+          "WorkStateId": "Done"
+        },
+        {
+          "EntryTime": 1689684282,
+          "WorkStateId": "This is a new workstate"
+        },
+        {
+          "EntryTime": 1689685712,
+          "WorkStateId": "Done"
+        },
+        {
+          "EntryTime": 1689686348,
+          "WorkStateId": "This is a new workstate"
+        },
+        {
+          "EntryTime": 1689686351,
+          "WorkStateId": "Done"
+        },
+        {
+          "EntryTime": 1689686354,
+          "WorkStateId": "This is a new workstate"
+        },
+        {
+          "EntryTime": 1689687047,
+          "WorkStateId": "Done"
+        },
+        {
+          "EntryTime": 1689687070,
+          "WorkStateId": "This is a new workstate"
+        },
+        {
+          "EntryTime": 1689687086,
+          "WorkStateId": "Done"
+        },
+        {
+          "EntryTime": 1689687117,
+          "WorkStateId": "This is a new workstate"
+        },
+        {
+          "EntryTime": 1689687130,
+          "WorkStateId": "Done"
+        },
+        {
+          "EntryTime": 1689687133,
+          "WorkStateId": "This is a new workstate"
+        },
+        {
+          "EntryTime": 1689687154,
+          "WorkStateId": "Done"
+        },
+        {
+          "EntryTime": 1689687347,
+          "WorkStateId": "This is a new workstate"
+        },
+        {
+          "EntryTime": 1689687444,
+          "WorkStateId": "Done"
+        },
+        {
+          "EntryTime": 1689687570,
+          "WorkStateId": "This is a new workstate"
+        },
+        {
+          "EntryTime": 1689687586,
+          "WorkStateId": "Done"
+        },
+        {
+          "EntryTime": 1689687716,
+          "WorkStateId": "This is a new workstate"
+        },
+        {
+          "EntryTime": 1689687718,
+          "WorkStateId": "Done"
+        },
+        {
+          "EntryTime": 1689688264,
+          "WorkStateId": "This is a new workstate"
+        },
+        {
+          "EntryTime": 1689688265,
+          "WorkStateId": "Done"
+        },
+        {
+          "EntryTime": 1689688272,
+          "WorkStateId": "This is a new workstate"
+        },
+        {
+          "EntryTime": 1689688420,
+          "WorkStateId": "Done"
+        },
+        {
+          "EntryTime": 1689688426,
+          "WorkStateId": "Done"
+        },
+        {
+          "EntryTime": 1689688428,
+          "WorkStateId": "This is a new workstate"
+        },
+        {
+          "EntryTime": 1689688680,
+          "WorkStateId": "Done"
+        },
+        {
+          "EntryTime": 1689752396,
+          "WorkStateId": "This is a new workstate"
+        },
+        {
+          "EntryTime": 1689752707,
+          "WorkStateId": "Done"
+        },
+        {
+          "EntryTime": 1689752709,
+          "WorkStateId": "This is a new workstate"
+        },
+        {
+          "EntryTime": 1689753317,
+          "WorkStateId": "Done"
+        },
+        {
+          "EntryTime": 1689753396,
+          "WorkStateId": "This is a new workstate"
+        },
+        {
+          "EntryTime": 1689753400,
+          "WorkStateId": "Done"
+        },
+        {
+          "EntryTime": 1689753437,
+          "WorkStateId": "This is a new workstate"
+        }
+      ]
+    }
   }
 ]

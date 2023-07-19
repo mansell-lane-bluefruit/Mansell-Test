@@ -2,7 +2,7 @@
   "Id": 3,
   "Title": "Ya sbitch",
   "Content": "\u003Cp\u003Efsdfsd\u003C/p\u003E",
-  "Status": "Done",
+  "Status": "This is a new workstate",
   "Priority": 0,
   "Effort": 0,
   "Type": 0,
@@ -18,7 +18,7 @@
   "LastUpdated": "0001-01-01T00:00:00",
   "Tags": [],
   "Comments": [],
-  "Index": 1,
+  "Index": 3,
   "UsersAssigned": [],
   "DefinitionOfDoneChecklistItems": [],
   "TaskChecklist": [],
@@ -1497,6 +1497,42 @@
     {
       "EntryTime": 1689760646,
       "WorkStateId": "Done"
+    },
+    {
+      "EntryTime": 1689761163,
+      "WorkStateId": "This is a new workstate"
+    },
+    {
+      "EntryTime": 1689761164,
+      "WorkStateId": "Done"
+    },
+    {
+      "EntryTime": 1689761170,
+      "WorkStateId": "This is a new workstate"
+    },
+    {
+      "EntryTime": 1689761187,
+      "WorkStateId": "Done"
+    },
+    {
+      "EntryTime": 1689761198,
+      "WorkStateId": "This is a new workstate"
+    },
+    {
+      "EntryTime": 1689761202,
+      "WorkStateId": "Done"
+    },
+    {
+      "EntryTime": 1689761202,
+      "WorkStateId": "This is a new workstate"
+    },
+    {
+      "EntryTime": 1689761280,
+      "WorkStateId": "Done"
+    },
+    {
+      "EntryTime": 1689761287,
+      "WorkStateId": "This is a new workstate"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "Id": 5,
   "Title": "hghg",
   "Content": "\u003Cp\u003Egdfgffg\u003C/p\u003E",
-  "Status": "This is a new workstate",
+  "Status": "Done",
   "Priority": 0,
   "Effort": 0,
   "Type": 0,
@@ -359,6 +359,34 @@
     {
       "EntryTime": 1689760368,
       "WorkStateId": "This is a new workstate"
+    },
+    {
+      "EntryTime": 1689761093,
+      "WorkStateId": "Done"
+    },
+    {
+      "EntryTime": 1689761100,
+      "WorkStateId": "This is a new workstate"
+    },
+    {
+      "EntryTime": 1689761165,
+      "WorkStateId": "Done"
+    },
+    {
+      "EntryTime": 1689761171,
+      "WorkStateId": "This is a new workstate"
+    },
+    {
+      "EntryTime": 1689761194,
+      "WorkStateId": "Done"
+    },
+    {
+      "EntryTime": 1689761197,
+      "WorkStateId": "This is a new workstate"
+    },
+    {
+      "EntryTime": 1689761281,
+      "WorkStateId": "Done"
     }
   ]
 }

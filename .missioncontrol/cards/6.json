@@ -18,7 +18,7 @@
   "LastUpdated": "0001-01-01T00:00:00",
   "Tags": [],
   "Comments": [],
-  "Index": 2,
+  "Index": 1,
   "UsersAssigned": [],
   "DefinitionOfDoneChecklistItems": [],
   "TaskChecklist": [],
@@ -298,6 +298,14 @@
     },
     {
       "EntryTime": 1689771555,
+      "WorkStateId": "This is a new workstate"
+    },
+    {
+      "EntryTime": 1689847552,
+      "WorkStateId": "Done"
+    },
+    {
+      "EntryTime": 1689847554,
       "WorkStateId": "This is a new workstate"
     }
   ]

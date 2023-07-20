@@ -2,7 +2,7 @@
   "Id": 4,
   "Title": "sas",
   "Content": "\u003Cp\u003Esasasa\u003C/p\u003E",
-  "Status": "Nice bloke",
+  "Status": "Jeffery",
   "Priority": 0,
   "Effort": 0,
   "Type": 1,
@@ -18,7 +18,7 @@
   "LastUpdated": "0001-01-01T00:00:00",
   "Tags": [],
   "Comments": [],
-  "Index": 1,
+  "Index": 0,
   "UsersAssigned": [],
   "DefinitionOfDoneChecklistItems": [],
   "TaskChecklist": [],
@@ -751,6 +751,10 @@
     {
       "EntryTime": 1689855442,
       "WorkStateId": "Nice bloke"
+    },
+    {
+      "EntryTime": 1689856174,
+      "WorkStateId": "Jeffery"
     }
   ]
 }

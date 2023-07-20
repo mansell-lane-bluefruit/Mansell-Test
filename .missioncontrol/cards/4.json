@@ -2,7 +2,7 @@
   "Id": 4,
   "Title": "sas",
   "Content": "\u003Cp\u003Esasasa\u003C/p\u003E",
-  "Status": "A",
+  "Status": "Jeffery",
   "Priority": 0,
   "Effort": 0,
   "Type": 1,
@@ -799,6 +799,14 @@
     {
       "EntryTime": 1689861053,
       "WorkStateId": "A"
+    },
+    {
+      "EntryTime": 1689864397,
+      "WorkStateId": "Is"
+    },
+    {
+      "EntryTime": 1689864408,
+      "WorkStateId": "Jeffery"
     }
   ]
 }

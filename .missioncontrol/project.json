@@ -14,7 +14,9 @@
         "IsTestable": false,
         "IsDone": false,
         "WorkflowId": 1,
-        "DefinitionOfDone": []
+        "DefinitionOfDone": [
+          "gfdggdffdg"
+        ]
       },
       {
         "WorkStateId": 5,
@@ -105,7 +107,7 @@
     "mansell.lane@bluefruit.co.uk",
     "paul.paul@bluefruit.co.uk"
   ],
-  "EnforceDefinitionOfDone": false,
+  "EnforceDefinitionOfDone": true,
   "GithubPRTargetAddress": "https://github.com/mansell-lane-bluefruit/Mansell-Test",
   "FeatureFilesLocation": ""
 }

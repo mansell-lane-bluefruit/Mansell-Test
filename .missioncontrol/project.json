@@ -107,7 +107,7 @@
     "mansell.lane@bluefruit.co.uk",
     "paul.paul@bluefruit.co.uk"
   ],
-  "EnforceDefinitionOfDone": true,
+  "EnforceDefinitionOfDone": false,
   "GithubPRTargetAddress": "https://github.com/mansell-lane-bluefruit/Mansell-Test",
   "FeatureFilesLocation": ""
 }

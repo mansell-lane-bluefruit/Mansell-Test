@@ -2,7 +2,7 @@
   "Id": 2,
   "Title": "Jeff",
   "Content": "\u003Cp\u003Eewqeqw\u003C/p\u003E",
-  "Status": "Is",
+  "Status": "A",
   "Priority": 0,
   "Effort": 0,
   "Type": 0,
@@ -18,7 +18,7 @@
   "LastUpdated": "0001-01-01T00:00:00",
   "Tags": [],
   "Comments": [],
-  "Index": 0,
+  "Index": 2,
   "UsersAssigned": [],
   "DefinitionOfDoneChecklistItems": [],
   "TaskChecklist": [],
@@ -1535,6 +1535,10 @@
     {
       "EntryTime": 1689855387,
       "WorkStateId": "Is"
+    },
+    {
+      "EntryTime": 1689855594,
+      "WorkStateId": "A"
     }
   ]
 }

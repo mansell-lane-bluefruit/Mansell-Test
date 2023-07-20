@@ -2,7 +2,7 @@
   "Id": 5,
   "Title": "hghg",
   "Content": "\u003Cp\u003Egdfgffg\u003C/p\u003E",
-  "Status": "Done",
+  "Status": "This is a new workstate",
   "Priority": 0,
   "Effort": 0,
   "Type": 0,
@@ -18,7 +18,7 @@
   "LastUpdated": "0001-01-01T00:00:00",
   "Tags": [],
   "Comments": [],
-  "Index": 0,
+  "Index": 1,
   "UsersAssigned": [],
   "DefinitionOfDoneChecklistItems": [],
   "TaskChecklist": [],
@@ -531,6 +531,34 @@
     {
       "EntryTime": 1689849554,
       "WorkStateId": "Done"
+    },
+    {
+      "EntryTime": 1689849740,
+      "WorkStateId": "This is a new workstate"
+    },
+    {
+      "EntryTime": 1689849741,
+      "WorkStateId": "Done"
+    },
+    {
+      "EntryTime": 1689850082,
+      "WorkStateId": "This is a new workstate"
+    },
+    {
+      "EntryTime": 1689850090,
+      "WorkStateId": "Done"
+    },
+    {
+      "EntryTime": 1689850298,
+      "WorkStateId": "This is a new workstate"
+    },
+    {
+      "EntryTime": 1689850302,
+      "WorkStateId": "Done"
+    },
+    {
+      "EntryTime": 1689850305,
+      "WorkStateId": "This is a new workstate"
     }
   ]
 }

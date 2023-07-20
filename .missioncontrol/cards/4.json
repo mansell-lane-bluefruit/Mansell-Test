@@ -2,7 +2,7 @@
   "Id": 4,
   "Title": "sas",
   "Content": "\u003Cp\u003Esasasa\u003C/p\u003E",
-  "Status": "This is a new workstate",
+  "Status": "Done",
   "Priority": 0,
   "Effort": 0,
   "Type": 1,
@@ -651,6 +651,58 @@
     {
       "EntryTime": 1689849555,
       "WorkStateId": "This is a new workstate"
+    },
+    {
+      "EntryTime": 1689849719,
+      "WorkStateId": "Done"
+    },
+    {
+      "EntryTime": 1689849739,
+      "WorkStateId": "This is a new workstate"
+    },
+    {
+      "EntryTime": 1689849742,
+      "WorkStateId": "Done"
+    },
+    {
+      "EntryTime": 1689849788,
+      "WorkStateId": "This is a new workstate"
+    },
+    {
+      "EntryTime": 1689849981,
+      "WorkStateId": "Done"
+    },
+    {
+      "EntryTime": 1689850000,
+      "WorkStateId": "This is a new workstate"
+    },
+    {
+      "EntryTime": 1689850003,
+      "WorkStateId": "Done"
+    },
+    {
+      "EntryTime": 1689850024,
+      "WorkStateId": "This is a new workstate"
+    },
+    {
+      "EntryTime": 1689850089,
+      "WorkStateId": "Done"
+    },
+    {
+      "EntryTime": 1689850280,
+      "WorkStateId": "This is a new workstate"
+    },
+    {
+      "EntryTime": 1689850281,
+      "WorkStateId": "Done"
+    },
+    {
+      "EntryTime": 1689850287,
+      "WorkStateId": "This is a new workstate"
+    },
+    {
+      "EntryTime": 1689850297,
+      "WorkStateId": "Done"
     }
   ]
 }

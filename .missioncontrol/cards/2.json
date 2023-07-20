@@ -2,7 +2,7 @@
   "Id": 2,
   "Title": "Jeff",
   "Content": "\u003Cp\u003Eewqeqw\u003C/p\u003E",
-  "Status": "This is a new workstate",
+  "Status": "Done",
   "Priority": 0,
   "Effort": 0,
   "Type": 0,
@@ -18,7 +18,7 @@
   "LastUpdated": "0001-01-01T00:00:00",
   "Tags": [],
   "Comments": [],
-  "Index": 5,
+  "Index": 3,
   "UsersAssigned": [],
   "DefinitionOfDoneChecklistItems": [],
   "TaskChecklist": [],
@@ -1399,6 +1399,26 @@
     {
       "EntryTime": 1689849224,
       "WorkStateId": "This is a new workstate"
+    },
+    {
+      "EntryTime": 1689849743,
+      "WorkStateId": "Done"
+    },
+    {
+      "EntryTime": 1689849783,
+      "WorkStateId": "This is a new workstate"
+    },
+    {
+      "EntryTime": 1689849786,
+      "WorkStateId": "Done"
+    },
+    {
+      "EntryTime": 1689849787,
+      "WorkStateId": "This is a new workstate"
+    },
+    {
+      "EntryTime": 1689850303,
+      "WorkStateId": "Done"
     }
   ]
 }

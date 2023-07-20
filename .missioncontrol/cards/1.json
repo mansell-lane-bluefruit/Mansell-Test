@@ -2,7 +2,7 @@
   "Id": 1,
   "Title": "Damn some",
   "Content": "\u003Cp\u003EIts fucked\u003C/p\u003E",
-  "Status": "Done",
+  "Status": "This is a new workstate",
   "Priority": 0,
   "Effort": 33,
   "Type": 0,
@@ -18,7 +18,7 @@
   "LastUpdated": "0001-01-01T00:00:00",
   "Tags": [],
   "Comments": [],
-  "Index": 2,
+  "Index": 4,
   "UsersAssigned": [],
   "DefinitionOfDoneChecklistItems": [],
   "TaskChecklist": [],
@@ -1715,6 +1715,58 @@
     {
       "EntryTime": 1689849558,
       "WorkStateId": "Done"
+    },
+    {
+      "EntryTime": 1689849716,
+      "WorkStateId": "This is a new workstate"
+    },
+    {
+      "EntryTime": 1689849741,
+      "WorkStateId": "Done"
+    },
+    {
+      "EntryTime": 1689849894,
+      "WorkStateId": "This is a new workstate"
+    },
+    {
+      "EntryTime": 1689849912,
+      "WorkStateId": "Done"
+    },
+    {
+      "EntryTime": 1689849924,
+      "WorkStateId": "This is a new workstate"
+    },
+    {
+      "EntryTime": 1689849985,
+      "WorkStateId": "Done"
+    },
+    {
+      "EntryTime": 1689849999,
+      "WorkStateId": "This is a new workstate"
+    },
+    {
+      "EntryTime": 1689850008,
+      "WorkStateId": "Done"
+    },
+    {
+      "EntryTime": 1689850075,
+      "WorkStateId": "This is a new workstate"
+    },
+    {
+      "EntryTime": 1689850081,
+      "WorkStateId": "Done"
+    },
+    {
+      "EntryTime": 1689850091,
+      "WorkStateId": "This is a new workstate"
+    },
+    {
+      "EntryTime": 1689850283,
+      "WorkStateId": "Done"
+    },
+    {
+      "EntryTime": 1689850283,
+      "WorkStateId": "This is a new workstate"
     }
   ]
 }

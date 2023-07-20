@@ -2,7 +2,7 @@
   "Id": 4,
   "Title": "sas",
   "Content": "\u003Cp\u003Esasasa\u003C/p\u003E",
-  "Status": "A",
+  "Status": "Is",
   "Priority": 0,
   "Effort": 0,
   "Type": 1,
@@ -18,7 +18,7 @@
   "LastUpdated": "0001-01-01T00:00:00",
   "Tags": [],
   "Comments": [],
-  "Index": 2,
+  "Index": 1,
   "UsersAssigned": [],
   "DefinitionOfDoneChecklistItems": [],
   "TaskChecklist": [],
@@ -759,6 +759,10 @@
     {
       "EntryTime": 1689857815,
       "WorkStateId": "A"
+    },
+    {
+      "EntryTime": 1689858841,
+      "WorkStateId": "Is"
     }
   ]
 }

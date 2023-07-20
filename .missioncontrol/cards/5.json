@@ -2,7 +2,7 @@
   "Id": 5,
   "Title": "hghg",
   "Content": "\u003Cp\u003Egdfgffg\u003C/p\u003E",
-  "Status": "Jeffery",
+  "Status": "A",
   "Priority": 0,
   "Effort": 0,
   "Type": 0,
@@ -643,6 +643,14 @@
     {
       "EntryTime": 1689857833,
       "WorkStateId": "Jeffery"
+    },
+    {
+      "EntryTime": 1689858839,
+      "WorkStateId": "Is"
+    },
+    {
+      "EntryTime": 1689858841,
+      "WorkStateId": "A"
     }
   ]
 }

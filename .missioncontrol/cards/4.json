@@ -2,7 +2,7 @@
   "Id": 4,
   "Title": "sas",
   "Content": "\u003Cp\u003Esasasa\u003C/p\u003E",
-  "Status": "This is a new workstate",
+  "Status": "Nice bloke",
   "Priority": 0,
   "Effort": 0,
   "Type": 1,
@@ -18,7 +18,7 @@
   "LastUpdated": "0001-01-01T00:00:00",
   "Tags": [],
   "Comments": [],
-  "Index": 0,
+  "Index": 1,
   "UsersAssigned": [],
   "DefinitionOfDoneChecklistItems": [],
   "TaskChecklist": [],
@@ -707,6 +707,50 @@
     {
       "EntryTime": 1689853932,
       "WorkStateId": "This is a new workstate"
+    },
+    {
+      "EntryTime": 1689854983,
+      "WorkStateId": "Done"
+    },
+    {
+      "EntryTime": 1689855053,
+      "WorkStateId": "This is a new workstate"
+    },
+    {
+      "EntryTime": 1689855058,
+      "WorkStateId": "Done"
+    },
+    {
+      "EntryTime": 1689855069,
+      "WorkStateId": "This is a new workstate"
+    },
+    {
+      "EntryTime": 1689855072,
+      "WorkStateId": "Done"
+    },
+    {
+      "EntryTime": 1689855089,
+      "WorkStateId": "This is a new workstate"
+    },
+    {
+      "EntryTime": 1689855325,
+      "WorkStateId": "Done"
+    },
+    {
+      "EntryTime": 1689855389,
+      "WorkStateId": "A"
+    },
+    {
+      "EntryTime": 1689855404,
+      "WorkStateId": "This is a new workstate"
+    },
+    {
+      "EntryTime": 1689855409,
+      "WorkStateId": "Done"
+    },
+    {
+      "EntryTime": 1689855442,
+      "WorkStateId": "Nice bloke"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "Id": 1,
   "Title": "Damn some",
   "Content": "\u003Cp\u003EIts fucked\u003C/p\u003E",
-  "Status": "Done",
+  "Status": "A",
   "Priority": 0,
   "Effort": 33,
   "Type": 0,
@@ -1771,6 +1771,70 @@
     {
       "EntryTime": 1689853923,
       "WorkStateId": "Done"
+    },
+    {
+      "EntryTime": 1689854984,
+      "WorkStateId": "This is a new workstate"
+    },
+    {
+      "EntryTime": 1689855049,
+      "WorkStateId": "Done"
+    },
+    {
+      "EntryTime": 1689855054,
+      "WorkStateId": "This is a new workstate"
+    },
+    {
+      "EntryTime": 1689855058,
+      "WorkStateId": "Done"
+    },
+    {
+      "EntryTime": 1689855067,
+      "WorkStateId": "This is a new workstate"
+    },
+    {
+      "EntryTime": 1689855071,
+      "WorkStateId": "Done"
+    },
+    {
+      "EntryTime": 1689855175,
+      "WorkStateId": "This is a new workstate"
+    },
+    {
+      "EntryTime": 1689855244,
+      "WorkStateId": "Done"
+    },
+    {
+      "EntryTime": 1689855281,
+      "WorkStateId": "This is a new workstate"
+    },
+    {
+      "EntryTime": 1689855283,
+      "WorkStateId": "Done"
+    },
+    {
+      "EntryTime": 1689855305,
+      "WorkStateId": "This is a new workstate"
+    },
+    {
+      "EntryTime": 1689855307,
+      "WorkStateId": "Done"
+    },
+    {
+      "EntryTime": 1689855312,
+      "WorkStateId": "This is a new workstate"
+    },
+    {
+      "EntryTime": 1689855317,
+      "WorkStateId": "Done"
+    },
+    {
+      "EntryTime": 1689855319,
+      "WorkStateId": "This is a new workstate"
+    },
+    {
+      "EntryTime": 1689855384,
+      "WorkStateId": "A"
     }
   ]
 }

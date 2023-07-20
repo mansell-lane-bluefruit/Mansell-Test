@@ -2,7 +2,7 @@
   "Id": 6,
   "Title": "gfdgdf",
   "Content": "\u003Cp\u003Egdfgdf\u003C/p\u003E",
-  "Status": "This is a new workstate",
+  "Status": "Is",
   "Priority": 0,
   "Effort": 0,
   "Type": 0,
@@ -18,7 +18,7 @@
   "LastUpdated": "0001-01-01T00:00:00",
   "Tags": [],
   "Comments": [],
-  "Index": 2,
+  "Index": 1,
   "UsersAssigned": [],
   "DefinitionOfDoneChecklistItems": [],
   "TaskChecklist": [],
@@ -339,6 +339,42 @@
     {
       "EntryTime": 1689850304,
       "WorkStateId": "This is a new workstate"
+    },
+    {
+      "EntryTime": 1689854966,
+      "WorkStateId": "Done"
+    },
+    {
+      "EntryTime": 1689855070,
+      "WorkStateId": "This is a new workstate"
+    },
+    {
+      "EntryTime": 1689855074,
+      "WorkStateId": "Done"
+    },
+    {
+      "EntryTime": 1689855171,
+      "WorkStateId": "This is a new workstate"
+    },
+    {
+      "EntryTime": 1689855248,
+      "WorkStateId": "Done"
+    },
+    {
+      "EntryTime": 1689855255,
+      "WorkStateId": "This is a new workstate"
+    },
+    {
+      "EntryTime": 1689855309,
+      "WorkStateId": "Done"
+    },
+    {
+      "EntryTime": 1689855322,
+      "WorkStateId": "This is a new workstate"
+    },
+    {
+      "EntryTime": 1689855385,
+      "WorkStateId": "Is"
     }
   ]
 }

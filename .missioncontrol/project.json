@@ -8,8 +8,44 @@
     "Name": "dadasd",
     "WorkStates": [
       {
-        "WorkStateId": 2,
+        "WorkStateId": 6,
         "Index": 0,
+        "Name": "Nice bloke",
+        "IsTestable": false,
+        "IsDone": false,
+        "WorkflowId": 1,
+        "DefinitionOfDone": []
+      },
+      {
+        "WorkStateId": 5,
+        "Index": 1,
+        "Name": "A",
+        "IsTestable": false,
+        "IsDone": false,
+        "WorkflowId": 1,
+        "DefinitionOfDone": []
+      },
+      {
+        "WorkStateId": 4,
+        "Index": 2,
+        "Name": "Is",
+        "IsTestable": false,
+        "IsDone": false,
+        "WorkflowId": 1,
+        "DefinitionOfDone": []
+      },
+      {
+        "WorkStateId": 3,
+        "Index": 3,
+        "Name": "Jeffery",
+        "IsTestable": false,
+        "IsDone": false,
+        "WorkflowId": 1,
+        "DefinitionOfDone": []
+      },
+      {
+        "WorkStateId": 2,
+        "Index": 4,
         "Name": "This is a new workstate",
         "IsTestable": false,
         "IsDone": false,
@@ -18,7 +54,7 @@
       },
       {
         "WorkStateId": 1,
-        "Index": 1,
+        "Index": 5,
         "Name": "Done",
         "IsTestable": false,
         "IsDone": true,

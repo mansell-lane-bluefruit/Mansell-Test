@@ -2,7 +2,7 @@
   "Id": 6,
   "Title": "gfdgdf",
   "Content": "\u003Cp\u003Egdfgdf\u003C/p\u003E",
-  "Status": "This is a new workstate",
+  "Status": "Jeffery",
   "Priority": 0,
   "Effort": 0,
   "Type": 0,
@@ -379,6 +379,10 @@
     {
       "EntryTime": 1689855588,
       "WorkStateId": "This is a new workstate"
+    },
+    {
+      "EntryTime": 1689856692,
+      "WorkStateId": "Jeffery"
     }
   ]
 }

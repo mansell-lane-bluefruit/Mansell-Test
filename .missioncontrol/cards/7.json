@@ -407,6 +407,26 @@
     {
       "EntryTime": 1689855593,
       "WorkStateId": "A"
+    },
+    {
+      "EntryTime": 1689856987,
+      "WorkStateId": "Done"
+    },
+    {
+      "EntryTime": 1689857059,
+      "WorkStateId": "Jeffery"
+    },
+    {
+      "EntryTime": 1689857106,
+      "WorkStateId": "Done"
+    },
+    {
+      "EntryTime": 1689857147,
+      "WorkStateId": "Is"
+    },
+    {
+      "EntryTime": 1689857162,
+      "WorkStateId": "A"
     }
   ]
 }

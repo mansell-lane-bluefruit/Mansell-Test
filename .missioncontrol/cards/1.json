@@ -2,7 +2,7 @@
   "Id": 1,
   "Title": "Damn some",
   "Content": "\u003Cp\u003EIts fucked\u003C/p\u003E",
-  "Status": "This is a new workstate",
+  "Status": "Nice bloke",
   "Priority": 0,
   "Effort": 33,
   "Type": 0,
@@ -2123,6 +2123,30 @@
     {
       "EntryTime": 1689864353,
       "WorkStateId": "This is a new workstate"
+    },
+    {
+      "EntryTime": 1689865053,
+      "WorkStateId": "Is"
+    },
+    {
+      "EntryTime": 1689865068,
+      "WorkStateId": "Jeffery"
+    },
+    {
+      "EntryTime": 1689865412,
+      "WorkStateId": "Is"
+    },
+    {
+      "EntryTime": 1689865454,
+      "WorkStateId": "Jeffery"
+    },
+    {
+      "EntryTime": 1689865457,
+      "WorkStateId": "Is"
+    },
+    {
+      "EntryTime": 1689865466,
+      "WorkStateId": "Nice bloke"
     }
   ]
 }

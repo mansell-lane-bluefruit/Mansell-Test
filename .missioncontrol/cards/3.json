@@ -2,7 +2,7 @@
   "Id": 3,
   "Title": "Ya sbitch",
   "Content": "\u003Cp\u003Efsdfsd\u003C/p\u003E",
-  "Status": "Nice bloke",
+  "Status": "Is",
   "Priority": 0,
   "Effort": 0,
   "Type": 0,
@@ -18,7 +18,7 @@
   "LastUpdated": "0001-01-01T00:00:00",
   "Tags": [],
   "Comments": [],
-  "Index": 0,
+  "Index": 1,
   "UsersAssigned": [],
   "DefinitionOfDoneChecklistItems": [],
   "TaskChecklist": [],
@@ -1825,6 +1825,10 @@
     {
       "EntryTime": 1689860367,
       "WorkStateId": "Nice bloke"
+    },
+    {
+      "EntryTime": 1689861039,
+      "WorkStateId": "Is"
     }
   ]
 }

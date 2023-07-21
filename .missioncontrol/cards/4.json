@@ -2,15 +2,15 @@
   "Id": 4,
   "Title": "sas",
   "Content": "\u003Cp\u003Esasasa\u003C/p\u003E",
-  "Status": "A",
+  "Status": "Is",
   "Priority": 0,
   "Effort": 0,
   "Type": 1,
   "Sprint": {
-    "Id": 1001,
-    "Name": "Sprint 2",
-    "StartDate": "2023-07-07T00:00:00+01:00",
-    "EndDate": "2023-07-21T00:00:00+01:00",
+    "Id": 1002,
+    "Name": "daa",
+    "StartDate": "2023-07-21T00:00:00",
+    "EndDate": "2023-08-03T00:00:00",
     "Feedback": [],
     "Ratings": [],
     "IsCompleted": false
@@ -855,6 +855,10 @@
     {
       "EntryTime": 1689931898,
       "WorkStateId": "A"
+    },
+    {
+      "EntryTime": 1689949402,
+      "WorkStateId": "Is"
     }
   ]
 }

@@ -2,15 +2,15 @@
   "Id": 7,
   "Title": "I should be at the bottom",
   "Content": "\u003Cp\u003Edadsdas\u003C/p\u003E",
-  "Status": "Is",
+  "Status": "Done",
   "Priority": 0,
   "Effort": 0,
   "Type": 0,
   "Sprint": {
-    "Id": 1001,
-    "Name": "Sprint 2",
-    "StartDate": "2023-07-07T00:00:00+01:00",
-    "EndDate": "2023-07-21T00:00:00+01:00",
+    "Id": 1002,
+    "Name": "daa",
+    "StartDate": "2023-07-21T00:00:00",
+    "EndDate": "2023-08-03T00:00:00",
     "Feedback": [],
     "Ratings": [],
     "IsCompleted": false
@@ -18,7 +18,7 @@
   "LastUpdated": "0001-01-01T00:00:00",
   "Tags": [],
   "Comments": [],
-  "Index": 3,
+  "Index": 0,
   "UsersAssigned": [],
   "DefinitionOfDoneChecklistItems": [],
   "TaskChecklist": [],
@@ -451,6 +451,10 @@
     {
       "EntryTime": 1689932061,
       "WorkStateId": "Is"
+    },
+    {
+      "EntryTime": 1689949399,
+      "WorkStateId": "Done"
     }
   ]
 }

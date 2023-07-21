@@ -7,10 +7,10 @@
   "Effort": 0,
   "Type": 0,
   "Sprint": {
-    "Id": 1001,
-    "Name": "Sprint 2",
-    "StartDate": "2023-07-07T00:00:00+01:00",
-    "EndDate": "2023-07-21T00:00:00+01:00",
+    "Id": 1003,
+    "Name": "da da",
+    "StartDate": "2023-07-22T00:00:00+01:00",
+    "EndDate": "2023-08-05T00:00:00+01:00",
     "Feedback": [],
     "Ratings": [],
     "IsCompleted": false
@@ -18,7 +18,7 @@
   "LastUpdated": "0001-01-01T00:00:00",
   "Tags": [],
   "Comments": [],
-  "Index": 2,
+  "Index": 0,
   "UsersAssigned": [],
   "DefinitionOfDoneChecklistItems": [],
   "TaskChecklist": [],
@@ -470,6 +470,14 @@
     },
     {
       "EntryTime": 1689954794,
+      "WorkStateId": "Is"
+    },
+    {
+      "EntryTime": 1689955353,
+      "WorkStateId": "Jeffery"
+    },
+    {
+      "EntryTime": 1689955363,
       "WorkStateId": "Is"
     }
   ]

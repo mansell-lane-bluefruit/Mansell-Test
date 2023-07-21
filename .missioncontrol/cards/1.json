@@ -2,15 +2,15 @@
   "Id": 1,
   "Title": "Damn some",
   "Content": "\u003Cp\u003EIts fucked\u003C/p\u003E",
-  "Status": "A",
+  "Status": "Jeffery",
   "Priority": 0,
   "Effort": 33,
   "Type": 0,
   "Sprint": {
-    "Id": 1001,
-    "Name": "Sprint 2",
-    "StartDate": "2023-07-07T00:00:00+01:00",
-    "EndDate": "2023-07-21T00:00:00+01:00",
+    "Id": 1003,
+    "Name": "da da",
+    "StartDate": "2023-07-22T00:00:00+01:00",
+    "EndDate": "2023-08-05T00:00:00+01:00",
     "Feedback": [],
     "Ratings": [],
     "IsCompleted": false
@@ -2323,6 +2323,22 @@
     {
       "EntryTime": 1689954815,
       "WorkStateId": "A"
+    },
+    {
+      "EntryTime": 1689955357,
+      "WorkStateId": "Nice bloke"
+    },
+    {
+      "EntryTime": 1689955357,
+      "WorkStateId": "Is"
+    },
+    {
+      "EntryTime": 1689955364,
+      "WorkStateId": "A"
+    },
+    {
+      "EntryTime": 1689955365,
+      "WorkStateId": "Jeffery"
     }
   ]
 }

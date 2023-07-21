@@ -2,7 +2,7 @@
   "Id": 3,
   "Title": "Ya sbitch",
   "Content": "\u003Cp\u003Efsdfsd\u003C/p\u003E",
-  "Status": "Is",
+  "Status": "Jeffery",
   "Priority": 0,
   "Effort": 0,
   "Type": 0,
@@ -18,7 +18,7 @@
   "LastUpdated": "0001-01-01T00:00:00",
   "Tags": [],
   "Comments": [],
-  "Index": 0,
+  "Index": 4,
   "UsersAssigned": [],
   "DefinitionOfDoneChecklistItems": [],
   "TaskChecklist": [],
@@ -1869,6 +1869,26 @@
     {
       "EntryTime": 1689951583,
       "WorkStateId": "Is"
+    },
+    {
+      "EntryTime": 1689953513,
+      "WorkStateId": "This is a new workstate"
+    },
+    {
+      "EntryTime": 1689953529,
+      "WorkStateId": "Done"
+    },
+    {
+      "EntryTime": 1689953537,
+      "WorkStateId": "This is a new workstate"
+    },
+    {
+      "EntryTime": 1689953538,
+      "WorkStateId": "A"
+    },
+    {
+      "EntryTime": 1689953540,
+      "WorkStateId": "Jeffery"
     }
   ]
 }

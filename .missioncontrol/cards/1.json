@@ -2,7 +2,7 @@
   "Id": 1,
   "Title": "Damn some",
   "Content": "\u003Cp\u003EIts fucked\u003C/p\u003E",
-  "Status": "A",
+  "Status": "Is",
   "Priority": 0,
   "Effort": 33,
   "Type": 0,
@@ -2295,6 +2295,22 @@
     {
       "EntryTime": 1689950051,
       "WorkStateId": "A"
+    },
+    {
+      "EntryTime": 1689953514,
+      "WorkStateId": "Jeffery"
+    },
+    {
+      "EntryTime": 1689953526,
+      "WorkStateId": "Is"
+    },
+    {
+      "EntryTime": 1689953543,
+      "WorkStateId": "A"
+    },
+    {
+      "EntryTime": 1689953545,
+      "WorkStateId": "Is"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "Id": 1,
   "Title": "Damn some",
   "Content": "\u003Cp\u003EIts fucked\u003C/p\u003E",
-  "Status": "Is",
+  "Status": "A",
   "Priority": 0,
   "Effort": 33,
   "Type": 0,
@@ -18,7 +18,7 @@
   "LastUpdated": "0001-01-01T00:00:00",
   "Tags": [],
   "Comments": [],
-  "Index": 2,
+  "Index": 0,
   "UsersAssigned": [],
   "DefinitionOfDoneChecklistItems": [],
   "TaskChecklist": [],
@@ -2227,6 +2227,14 @@
     {
       "EntryTime": 1689931314,
       "WorkStateId": "Is"
+    },
+    {
+      "EntryTime": 1689931422,
+      "WorkStateId": "Jeffery"
+    },
+    {
+      "EntryTime": 1689931424,
+      "WorkStateId": "A"
     }
   ]
 }

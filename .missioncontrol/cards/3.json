@@ -2,15 +2,15 @@
   "Id": 3,
   "Title": "Ya sbitch",
   "Content": "\u003Cp\u003Efsdfsd\u003C/p\u003E",
-  "Status": "Jeffery",
+  "Status": "This is a new workstate",
   "Priority": 0,
   "Effort": 0,
   "Type": 0,
   "Sprint": {
-    "Id": 1002,
-    "Name": "daa",
-    "StartDate": "2023-07-21T00:00:00",
-    "EndDate": "2023-08-03T00:00:00",
+    "Id": 1001,
+    "Name": "Sprint 2",
+    "StartDate": "2023-07-07T00:00:00+01:00",
+    "EndDate": "2023-07-21T00:00:00+01:00",
     "Feedback": [],
     "Ratings": [],
     "IsCompleted": false
@@ -18,7 +18,7 @@
   "LastUpdated": "0001-01-01T00:00:00",
   "Tags": [],
   "Comments": [],
-  "Index": 4,
+  "Index": 0,
   "UsersAssigned": [],
   "DefinitionOfDoneChecklistItems": [],
   "TaskChecklist": [],
@@ -1889,6 +1889,14 @@
     {
       "EntryTime": 1689953540,
       "WorkStateId": "Jeffery"
+    },
+    {
+      "EntryTime": 1689954762,
+      "WorkStateId": "A"
+    },
+    {
+      "EntryTime": 1689954796,
+      "WorkStateId": "This is a new workstate"
     }
   ]
 }

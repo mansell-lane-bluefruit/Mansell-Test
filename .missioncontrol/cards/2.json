@@ -2,15 +2,15 @@
   "Id": 2,
   "Title": "Jeff",
   "Content": "\u003Cp\u003Eewqeqw\u003C/p\u003E",
-  "Status": "Is",
+  "Status": "Jeffery",
   "Priority": 0,
   "Effort": 0,
   "Type": 0,
   "Sprint": {
-    "Id": 1002,
-    "Name": "daa",
-    "StartDate": "2023-07-21T00:00:00",
-    "EndDate": "2023-08-03T00:00:00",
+    "Id": 1003,
+    "Name": "da da",
+    "StartDate": "2023-07-22T00:00:00+01:00",
+    "EndDate": "2023-08-05T00:00:00+01:00",
     "Feedback": [],
     "Ratings": [],
     "IsCompleted": false
@@ -1583,6 +1583,10 @@
     {
       "EntryTime": 1689949403,
       "WorkStateId": "Is"
+    },
+    {
+      "EntryTime": 1689950717,
+      "WorkStateId": "Jeffery"
     }
   ]
 }

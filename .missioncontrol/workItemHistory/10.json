@@ -398,5 +398,865 @@
         }
       ]
     }
+  },
+  {
+    "UserName": "mansell.lane@bluefruit.co.uk",
+    "TimeStamp": "2023-07-24T14:38:31.6268453+01:00",
+    "workItem": {
+      "Id": 10,
+      "Title": "fdsfsdf",
+      "Content": "\u003Cp\u003Efdsfsd\u003C/p\u003E",
+      "Status": "Is",
+      "Priority": 0,
+      "Effort": 0,
+      "Type": 0,
+      "Sprint": {
+        "Id": 1000,
+        "Name": "Sprint 1",
+        "StartDate": "2023-02-09T16:34:45.6571429+00:00",
+        "EndDate": "2023-02-23T16:34:45.6571766+00:00",
+        "Feedback": [],
+        "Ratings": [],
+        "IsCompleted": false
+      },
+      "LastUpdated": "0001-01-01T00:00:00",
+      "Tags": [],
+      "Comments": [],
+      "Index": 0,
+      "UsersAssigned": [],
+      "DefinitionOfDoneChecklistItems": [],
+      "TaskChecklist": [],
+      "AssignedPullRequests": [],
+      "TimeInFlightEntries": [
+        {
+          "EntryTime": 1690205777,
+          "WorkStateId": "Nice bloke"
+        },
+        {
+          "EntryTime": 1690205813,
+          "WorkStateId": "Is"
+        },
+        {
+          "EntryTime": 1690205815,
+          "WorkStateId": "A"
+        },
+        {
+          "EntryTime": 1690205816,
+          "WorkStateId": "Nice bloke"
+        },
+        {
+          "EntryTime": 1690205822,
+          "WorkStateId": "Is"
+        },
+        {
+          "EntryTime": 1690205822,
+          "WorkStateId": "A"
+        },
+        {
+          "EntryTime": 1690205824,
+          "WorkStateId": "Jeffery"
+        },
+        {
+          "EntryTime": 1690205825,
+          "WorkStateId": "A"
+        },
+        {
+          "EntryTime": 1690205911,
+          "WorkStateId": "Is"
+        }
+      ]
+    }
+  },
+  {
+    "UserName": "mansell.lane@bluefruit.co.uk",
+    "TimeStamp": "2023-07-24T14:38:32.4764319+01:00",
+    "workItem": {
+      "Id": 10,
+      "Title": "fdsfsdf",
+      "Content": "\u003Cp\u003Efdsfsd\u003C/p\u003E",
+      "Status": "A",
+      "Priority": 0,
+      "Effort": 0,
+      "Type": 0,
+      "Sprint": {
+        "Id": 1000,
+        "Name": "Sprint 1",
+        "StartDate": "2023-02-09T16:34:45.6571429+00:00",
+        "EndDate": "2023-02-23T16:34:45.6571766+00:00",
+        "Feedback": [],
+        "Ratings": [],
+        "IsCompleted": false
+      },
+      "LastUpdated": "0001-01-01T00:00:00",
+      "Tags": [],
+      "Comments": [],
+      "Index": 0,
+      "UsersAssigned": [],
+      "DefinitionOfDoneChecklistItems": [],
+      "TaskChecklist": [],
+      "AssignedPullRequests": [],
+      "TimeInFlightEntries": [
+        {
+          "EntryTime": 1690205777,
+          "WorkStateId": "Nice bloke"
+        },
+        {
+          "EntryTime": 1690205813,
+          "WorkStateId": "Is"
+        },
+        {
+          "EntryTime": 1690205815,
+          "WorkStateId": "A"
+        },
+        {
+          "EntryTime": 1690205816,
+          "WorkStateId": "Nice bloke"
+        },
+        {
+          "EntryTime": 1690205822,
+          "WorkStateId": "Is"
+        },
+        {
+          "EntryTime": 1690205822,
+          "WorkStateId": "A"
+        },
+        {
+          "EntryTime": 1690205824,
+          "WorkStateId": "Jeffery"
+        },
+        {
+          "EntryTime": 1690205825,
+          "WorkStateId": "A"
+        },
+        {
+          "EntryTime": 1690205911,
+          "WorkStateId": "Is"
+        },
+        {
+          "EntryTime": 1690205912,
+          "WorkStateId": "A"
+        }
+      ]
+    }
+  },
+  {
+    "UserName": "mansell.lane@bluefruit.co.uk",
+    "TimeStamp": "2023-07-24T14:38:33.5120526+01:00",
+    "workItem": {
+      "Id": 10,
+      "Title": "fdsfsdf",
+      "Content": "\u003Cp\u003Efdsfsd\u003C/p\u003E",
+      "Status": "Nice bloke",
+      "Priority": 0,
+      "Effort": 0,
+      "Type": 0,
+      "Sprint": {
+        "Id": 1000,
+        "Name": "Sprint 1",
+        "StartDate": "2023-02-09T16:34:45.6571429+00:00",
+        "EndDate": "2023-02-23T16:34:45.6571766+00:00",
+        "Feedback": [],
+        "Ratings": [],
+        "IsCompleted": false
+      },
+      "LastUpdated": "0001-01-01T00:00:00",
+      "Tags": [],
+      "Comments": [],
+      "Index": 0,
+      "UsersAssigned": [],
+      "DefinitionOfDoneChecklistItems": [],
+      "TaskChecklist": [],
+      "AssignedPullRequests": [],
+      "TimeInFlightEntries": [
+        {
+          "EntryTime": 1690205777,
+          "WorkStateId": "Nice bloke"
+        },
+        {
+          "EntryTime": 1690205813,
+          "WorkStateId": "Is"
+        },
+        {
+          "EntryTime": 1690205815,
+          "WorkStateId": "A"
+        },
+        {
+          "EntryTime": 1690205816,
+          "WorkStateId": "Nice bloke"
+        },
+        {
+          "EntryTime": 1690205822,
+          "WorkStateId": "Is"
+        },
+        {
+          "EntryTime": 1690205822,
+          "WorkStateId": "A"
+        },
+        {
+          "EntryTime": 1690205824,
+          "WorkStateId": "Jeffery"
+        },
+        {
+          "EntryTime": 1690205825,
+          "WorkStateId": "A"
+        },
+        {
+          "EntryTime": 1690205911,
+          "WorkStateId": "Is"
+        },
+        {
+          "EntryTime": 1690205912,
+          "WorkStateId": "A"
+        },
+        {
+          "EntryTime": 1690205913,
+          "WorkStateId": "Nice bloke"
+        }
+      ]
+    }
+  },
+  {
+    "UserName": "mansell.lane@bluefruit.co.uk",
+    "TimeStamp": "2023-07-24T14:38:34.2047148+01:00",
+    "workItem": {
+      "Id": 10,
+      "Title": "fdsfsdf",
+      "Content": "\u003Cp\u003Efdsfsd\u003C/p\u003E",
+      "Status": "A",
+      "Priority": 0,
+      "Effort": 0,
+      "Type": 0,
+      "Sprint": {
+        "Id": 1000,
+        "Name": "Sprint 1",
+        "StartDate": "2023-02-09T16:34:45.6571429+00:00",
+        "EndDate": "2023-02-23T16:34:45.6571766+00:00",
+        "Feedback": [],
+        "Ratings": [],
+        "IsCompleted": false
+      },
+      "LastUpdated": "0001-01-01T00:00:00",
+      "Tags": [],
+      "Comments": [],
+      "Index": 0,
+      "UsersAssigned": [],
+      "DefinitionOfDoneChecklistItems": [],
+      "TaskChecklist": [],
+      "AssignedPullRequests": [],
+      "TimeInFlightEntries": [
+        {
+          "EntryTime": 1690205777,
+          "WorkStateId": "Nice bloke"
+        },
+        {
+          "EntryTime": 1690205813,
+          "WorkStateId": "Is"
+        },
+        {
+          "EntryTime": 1690205815,
+          "WorkStateId": "A"
+        },
+        {
+          "EntryTime": 1690205816,
+          "WorkStateId": "Nice bloke"
+        },
+        {
+          "EntryTime": 1690205822,
+          "WorkStateId": "Is"
+        },
+        {
+          "EntryTime": 1690205822,
+          "WorkStateId": "A"
+        },
+        {
+          "EntryTime": 1690205824,
+          "WorkStateId": "Jeffery"
+        },
+        {
+          "EntryTime": 1690205825,
+          "WorkStateId": "A"
+        },
+        {
+          "EntryTime": 1690205911,
+          "WorkStateId": "Is"
+        },
+        {
+          "EntryTime": 1690205912,
+          "WorkStateId": "A"
+        },
+        {
+          "EntryTime": 1690205913,
+          "WorkStateId": "Nice bloke"
+        },
+        {
+          "EntryTime": 1690205914,
+          "WorkStateId": "A"
+        }
+      ]
+    }
+  },
+  {
+    "UserName": "mansell.lane@bluefruit.co.uk",
+    "TimeStamp": "2023-07-24T14:38:34.8341227+01:00",
+    "workItem": {
+      "Id": 10,
+      "Title": "fdsfsdf",
+      "Content": "\u003Cp\u003Efdsfsd\u003C/p\u003E",
+      "Status": "Jeffery",
+      "Priority": 0,
+      "Effort": 0,
+      "Type": 0,
+      "Sprint": {
+        "Id": 1000,
+        "Name": "Sprint 1",
+        "StartDate": "2023-02-09T16:34:45.6571429+00:00",
+        "EndDate": "2023-02-23T16:34:45.6571766+00:00",
+        "Feedback": [],
+        "Ratings": [],
+        "IsCompleted": false
+      },
+      "LastUpdated": "0001-01-01T00:00:00",
+      "Tags": [],
+      "Comments": [],
+      "Index": 0,
+      "UsersAssigned": [],
+      "DefinitionOfDoneChecklistItems": [],
+      "TaskChecklist": [],
+      "AssignedPullRequests": [],
+      "TimeInFlightEntries": [
+        {
+          "EntryTime": 1690205777,
+          "WorkStateId": "Nice bloke"
+        },
+        {
+          "EntryTime": 1690205813,
+          "WorkStateId": "Is"
+        },
+        {
+          "EntryTime": 1690205815,
+          "WorkStateId": "A"
+        },
+        {
+          "EntryTime": 1690205816,
+          "WorkStateId": "Nice bloke"
+        },
+        {
+          "EntryTime": 1690205822,
+          "WorkStateId": "Is"
+        },
+        {
+          "EntryTime": 1690205822,
+          "WorkStateId": "A"
+        },
+        {
+          "EntryTime": 1690205824,
+          "WorkStateId": "Jeffery"
+        },
+        {
+          "EntryTime": 1690205825,
+          "WorkStateId": "A"
+        },
+        {
+          "EntryTime": 1690205911,
+          "WorkStateId": "Is"
+        },
+        {
+          "EntryTime": 1690205912,
+          "WorkStateId": "A"
+        },
+        {
+          "EntryTime": 1690205913,
+          "WorkStateId": "Nice bloke"
+        },
+        {
+          "EntryTime": 1690205914,
+          "WorkStateId": "A"
+        },
+        {
+          "EntryTime": 1690205914,
+          "WorkStateId": "Jeffery"
+        }
+      ]
+    }
+  },
+  {
+    "UserName": "mansell.lane@bluefruit.co.uk",
+    "TimeStamp": "2023-07-24T14:38:37.2681605+01:00",
+    "workItem": {
+      "Id": 10,
+      "Title": "fdsfsdf",
+      "Content": "\u003Cp\u003Efdsfsd\u003C/p\u003E",
+      "Status": "Nice bloke",
+      "Priority": 0,
+      "Effort": 0,
+      "Type": 0,
+      "Sprint": {
+        "Id": 1000,
+        "Name": "Sprint 1",
+        "StartDate": "2023-02-09T16:34:45.6571429+00:00",
+        "EndDate": "2023-02-23T16:34:45.6571766+00:00",
+        "Feedback": [],
+        "Ratings": [],
+        "IsCompleted": false
+      },
+      "LastUpdated": "0001-01-01T00:00:00",
+      "Tags": [],
+      "Comments": [],
+      "Index": 0,
+      "UsersAssigned": [],
+      "DefinitionOfDoneChecklistItems": [],
+      "TaskChecklist": [],
+      "AssignedPullRequests": [],
+      "TimeInFlightEntries": [
+        {
+          "EntryTime": 1690205777,
+          "WorkStateId": "Nice bloke"
+        },
+        {
+          "EntryTime": 1690205813,
+          "WorkStateId": "Is"
+        },
+        {
+          "EntryTime": 1690205815,
+          "WorkStateId": "A"
+        },
+        {
+          "EntryTime": 1690205816,
+          "WorkStateId": "Nice bloke"
+        },
+        {
+          "EntryTime": 1690205822,
+          "WorkStateId": "Is"
+        },
+        {
+          "EntryTime": 1690205822,
+          "WorkStateId": "A"
+        },
+        {
+          "EntryTime": 1690205824,
+          "WorkStateId": "Jeffery"
+        },
+        {
+          "EntryTime": 1690205825,
+          "WorkStateId": "A"
+        },
+        {
+          "EntryTime": 1690205911,
+          "WorkStateId": "Is"
+        },
+        {
+          "EntryTime": 1690205912,
+          "WorkStateId": "A"
+        },
+        {
+          "EntryTime": 1690205913,
+          "WorkStateId": "Nice bloke"
+        },
+        {
+          "EntryTime": 1690205914,
+          "WorkStateId": "A"
+        },
+        {
+          "EntryTime": 1690205914,
+          "WorkStateId": "Jeffery"
+        },
+        {
+          "EntryTime": 1690205917,
+          "WorkStateId": "Nice bloke"
+        }
+      ]
+    }
+  },
+  {
+    "UserName": "mansell.lane@bluefruit.co.uk",
+    "TimeStamp": "2023-07-24T14:38:42.9370636+01:00",
+    "workItem": {
+      "Id": 10,
+      "Title": "fdsfsdf",
+      "Content": "\u003Cp\u003Efdsfsd\u003C/p\u003E",
+      "Status": "Is",
+      "Priority": 0,
+      "Effort": 0,
+      "Type": 0,
+      "Sprint": {
+        "Id": 1000,
+        "Name": "Sprint 1",
+        "StartDate": "2023-02-09T16:34:45.6571429+00:00",
+        "EndDate": "2023-02-23T16:34:45.6571766+00:00",
+        "Feedback": [],
+        "Ratings": [],
+        "IsCompleted": false
+      },
+      "LastUpdated": "0001-01-01T00:00:00",
+      "Tags": [],
+      "Comments": [],
+      "Index": 0,
+      "UsersAssigned": [],
+      "DefinitionOfDoneChecklistItems": [],
+      "TaskChecklist": [],
+      "AssignedPullRequests": [],
+      "TimeInFlightEntries": [
+        {
+          "EntryTime": 1690205777,
+          "WorkStateId": "Nice bloke"
+        },
+        {
+          "EntryTime": 1690205813,
+          "WorkStateId": "Is"
+        },
+        {
+          "EntryTime": 1690205815,
+          "WorkStateId": "A"
+        },
+        {
+          "EntryTime": 1690205816,
+          "WorkStateId": "Nice bloke"
+        },
+        {
+          "EntryTime": 1690205822,
+          "WorkStateId": "Is"
+        },
+        {
+          "EntryTime": 1690205822,
+          "WorkStateId": "A"
+        },
+        {
+          "EntryTime": 1690205824,
+          "WorkStateId": "Jeffery"
+        },
+        {
+          "EntryTime": 1690205825,
+          "WorkStateId": "A"
+        },
+        {
+          "EntryTime": 1690205911,
+          "WorkStateId": "Is"
+        },
+        {
+          "EntryTime": 1690205912,
+          "WorkStateId": "A"
+        },
+        {
+          "EntryTime": 1690205913,
+          "WorkStateId": "Nice bloke"
+        },
+        {
+          "EntryTime": 1690205914,
+          "WorkStateId": "A"
+        },
+        {
+          "EntryTime": 1690205914,
+          "WorkStateId": "Jeffery"
+        },
+        {
+          "EntryTime": 1690205917,
+          "WorkStateId": "Nice bloke"
+        },
+        {
+          "EntryTime": 1690205922,
+          "WorkStateId": "Is"
+        }
+      ]
+    }
+  },
+  {
+    "UserName": "mansell.lane@bluefruit.co.uk",
+    "TimeStamp": "2023-07-24T14:38:43.719845+01:00",
+    "workItem": {
+      "Id": 10,
+      "Title": "fdsfsdf",
+      "Content": "\u003Cp\u003Efdsfsd\u003C/p\u003E",
+      "Status": "A",
+      "Priority": 0,
+      "Effort": 0,
+      "Type": 0,
+      "Sprint": {
+        "Id": 1000,
+        "Name": "Sprint 1",
+        "StartDate": "2023-02-09T16:34:45.6571429+00:00",
+        "EndDate": "2023-02-23T16:34:45.6571766+00:00",
+        "Feedback": [],
+        "Ratings": [],
+        "IsCompleted": false
+      },
+      "LastUpdated": "0001-01-01T00:00:00",
+      "Tags": [],
+      "Comments": [],
+      "Index": 0,
+      "UsersAssigned": [],
+      "DefinitionOfDoneChecklistItems": [],
+      "TaskChecklist": [],
+      "AssignedPullRequests": [],
+      "TimeInFlightEntries": [
+        {
+          "EntryTime": 1690205777,
+          "WorkStateId": "Nice bloke"
+        },
+        {
+          "EntryTime": 1690205813,
+          "WorkStateId": "Is"
+        },
+        {
+          "EntryTime": 1690205815,
+          "WorkStateId": "A"
+        },
+        {
+          "EntryTime": 1690205816,
+          "WorkStateId": "Nice bloke"
+        },
+        {
+          "EntryTime": 1690205822,
+          "WorkStateId": "Is"
+        },
+        {
+          "EntryTime": 1690205822,
+          "WorkStateId": "A"
+        },
+        {
+          "EntryTime": 1690205824,
+          "WorkStateId": "Jeffery"
+        },
+        {
+          "EntryTime": 1690205825,
+          "WorkStateId": "A"
+        },
+        {
+          "EntryTime": 1690205911,
+          "WorkStateId": "Is"
+        },
+        {
+          "EntryTime": 1690205912,
+          "WorkStateId": "A"
+        },
+        {
+          "EntryTime": 1690205913,
+          "WorkStateId": "Nice bloke"
+        },
+        {
+          "EntryTime": 1690205914,
+          "WorkStateId": "A"
+        },
+        {
+          "EntryTime": 1690205914,
+          "WorkStateId": "Jeffery"
+        },
+        {
+          "EntryTime": 1690205917,
+          "WorkStateId": "Nice bloke"
+        },
+        {
+          "EntryTime": 1690205922,
+          "WorkStateId": "Is"
+        },
+        {
+          "EntryTime": 1690205923,
+          "WorkStateId": "A"
+        }
+      ]
+    }
+  },
+  {
+    "UserName": "mansell.lane@bluefruit.co.uk",
+    "TimeStamp": "2023-07-24T14:39:05.5892698+01:00",
+    "workItem": {
+      "Id": 10,
+      "Title": "fdsfsdf",
+      "Content": "\u003Cp\u003Efdsfsd\u003C/p\u003E",
+      "Status": "Is",
+      "Priority": 0,
+      "Effort": 0,
+      "Type": 0,
+      "Sprint": {
+        "Id": 1000,
+        "Name": "Sprint 1",
+        "StartDate": "2023-02-09T16:34:45.6571429+00:00",
+        "EndDate": "2023-02-23T16:34:45.6571766+00:00",
+        "Feedback": [],
+        "Ratings": [],
+        "IsCompleted": false
+      },
+      "LastUpdated": "0001-01-01T00:00:00",
+      "Tags": [],
+      "Comments": [],
+      "Index": 0,
+      "UsersAssigned": [],
+      "DefinitionOfDoneChecklistItems": [],
+      "TaskChecklist": [],
+      "AssignedPullRequests": [],
+      "TimeInFlightEntries": [
+        {
+          "EntryTime": 1690205777,
+          "WorkStateId": "Nice bloke"
+        },
+        {
+          "EntryTime": 1690205813,
+          "WorkStateId": "Is"
+        },
+        {
+          "EntryTime": 1690205815,
+          "WorkStateId": "A"
+        },
+        {
+          "EntryTime": 1690205816,
+          "WorkStateId": "Nice bloke"
+        },
+        {
+          "EntryTime": 1690205822,
+          "WorkStateId": "Is"
+        },
+        {
+          "EntryTime": 1690205822,
+          "WorkStateId": "A"
+        },
+        {
+          "EntryTime": 1690205824,
+          "WorkStateId": "Jeffery"
+        },
+        {
+          "EntryTime": 1690205825,
+          "WorkStateId": "A"
+        },
+        {
+          "EntryTime": 1690205911,
+          "WorkStateId": "Is"
+        },
+        {
+          "EntryTime": 1690205912,
+          "WorkStateId": "A"
+        },
+        {
+          "EntryTime": 1690205913,
+          "WorkStateId": "Nice bloke"
+        },
+        {
+          "EntryTime": 1690205914,
+          "WorkStateId": "A"
+        },
+        {
+          "EntryTime": 1690205914,
+          "WorkStateId": "Jeffery"
+        },
+        {
+          "EntryTime": 1690205917,
+          "WorkStateId": "Nice bloke"
+        },
+        {
+          "EntryTime": 1690205922,
+          "WorkStateId": "Is"
+        },
+        {
+          "EntryTime": 1690205923,
+          "WorkStateId": "A"
+        },
+        {
+          "EntryTime": 1690205945,
+          "WorkStateId": "Is"
+        }
+      ]
+    }
+  },
+  {
+    "UserName": "mansell.lane@bluefruit.co.uk",
+    "TimeStamp": "2023-07-24T14:39:06.5428752+01:00",
+    "workItem": {
+      "Id": 10,
+      "Title": "fdsfsdf",
+      "Content": "\u003Cp\u003Efdsfsd\u003C/p\u003E",
+      "Status": "A",
+      "Priority": 0,
+      "Effort": 0,
+      "Type": 0,
+      "Sprint": {
+        "Id": 1000,
+        "Name": "Sprint 1",
+        "StartDate": "2023-02-09T16:34:45.6571429+00:00",
+        "EndDate": "2023-02-23T16:34:45.6571766+00:00",
+        "Feedback": [],
+        "Ratings": [],
+        "IsCompleted": false
+      },
+      "LastUpdated": "0001-01-01T00:00:00",
+      "Tags": [],
+      "Comments": [],
+      "Index": 0,
+      "UsersAssigned": [],
+      "DefinitionOfDoneChecklistItems": [],
+      "TaskChecklist": [],
+      "AssignedPullRequests": [],
+      "TimeInFlightEntries": [
+        {
+          "EntryTime": 1690205777,
+          "WorkStateId": "Nice bloke"
+        },
+        {
+          "EntryTime": 1690205813,
+          "WorkStateId": "Is"
+        },
+        {
+          "EntryTime": 1690205815,
+          "WorkStateId": "A"
+        },
+        {
+          "EntryTime": 1690205816,
+          "WorkStateId": "Nice bloke"
+        },
+        {
+          "EntryTime": 1690205822,
+          "WorkStateId": "Is"
+        },
+        {
+          "EntryTime": 1690205822,
+          "WorkStateId": "A"
+        },
+        {
+          "EntryTime": 1690205824,
+          "WorkStateId": "Jeffery"
+        },
+        {
+          "EntryTime": 1690205825,
+          "WorkStateId": "A"
+        },
+        {
+          "EntryTime": 1690205911,
+          "WorkStateId": "Is"
+        },
+        {
+          "EntryTime": 1690205912,
+          "WorkStateId": "A"
+        },
+        {
+          "EntryTime": 1690205913,
+          "WorkStateId": "Nice bloke"
+        },
+        {
+          "EntryTime": 1690205914,
+          "WorkStateId": "A"
+        },
+        {
+          "EntryTime": 1690205914,
+          "WorkStateId": "Jeffery"
+        },
+        {
+          "EntryTime": 1690205917,
+          "WorkStateId": "Nice bloke"
+        },
+        {
+          "EntryTime": 1690205922,
+          "WorkStateId": "Is"
+        },
+        {
+          "EntryTime": 1690205923,
+          "WorkStateId": "A"
+        },
+        {
+          "EntryTime": 1690205945,
+          "WorkStateId": "Is"
+        },
+        {
+          "EntryTime": 1690205946,
+          "WorkStateId": "A"
+        }
+      ]
+    }
   }
 ]

@@ -55,6 +55,46 @@
     {
       "EntryTime": 1690205825,
       "WorkStateId": "A"
+    },
+    {
+      "EntryTime": 1690205911,
+      "WorkStateId": "Is"
+    },
+    {
+      "EntryTime": 1690205912,
+      "WorkStateId": "A"
+    },
+    {
+      "EntryTime": 1690205913,
+      "WorkStateId": "Nice bloke"
+    },
+    {
+      "EntryTime": 1690205914,
+      "WorkStateId": "A"
+    },
+    {
+      "EntryTime": 1690205914,
+      "WorkStateId": "Jeffery"
+    },
+    {
+      "EntryTime": 1690205917,
+      "WorkStateId": "Nice bloke"
+    },
+    {
+      "EntryTime": 1690205922,
+      "WorkStateId": "Is"
+    },
+    {
+      "EntryTime": 1690205923,
+      "WorkStateId": "A"
+    },
+    {
+      "EntryTime": 1690205945,
+      "WorkStateId": "Is"
+    },
+    {
+      "EntryTime": 1690205946,
+      "WorkStateId": "A"
     }
   ]
 }

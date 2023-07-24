@@ -1,11 +1,11 @@
 {
   "Id": 10,
-  "Title": "fdsfsdf",
-  "Content": "\u003Cp\u003Efdsfsd\u003C/p\u003E",
+  "Title": "fd",
+  "Content": "\u003Cp\u003Efd\u003C/p\u003E",
   "Status": "A",
   "Priority": 0,
-  "Effort": 0,
-  "Type": 0,
+  "Effort": 100,
+  "Type": 1,
   "Sprint": {
     "Id": 1000,
     "Name": "Sprint 1",
@@ -21,7 +21,13 @@
   "Index": 0,
   "UsersAssigned": [],
   "DefinitionOfDoneChecklistItems": [],
-  "TaskChecklist": [],
+  "TaskChecklist": [
+    {
+      "TaskName": "ghyukiy",
+      "IsCompleted": false,
+      "Index": 0
+    }
+  ],
   "AssignedPullRequests": [],
   "TimeInFlightEntries": [
     {

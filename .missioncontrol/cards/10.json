@@ -2,7 +2,7 @@
   "Id": 10,
   "Title": "fdsfsdf",
   "Content": "\u003Cp\u003Efdsfsd\u003C/p\u003E",
-  "Status": "A",
+  "Status": "dsfewere",
   "Priority": 0,
   "Effort": 0,
   "Type": 0,
@@ -111,6 +111,22 @@
     {
       "EntryTime": 1690206018,
       "WorkStateId": "A"
+    },
+    {
+      "EntryTime": 1690206255,
+      "WorkStateId": "Nice bloke"
+    },
+    {
+      "EntryTime": 1690206255,
+      "WorkStateId": "dsfewere"
+    },
+    {
+      "EntryTime": 1690206285,
+      "WorkStateId": "Jeffery"
+    },
+    {
+      "EntryTime": 1690206286,
+      "WorkStateId": "dsfewere"
     }
   ]
 }

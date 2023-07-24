@@ -2,7 +2,7 @@
   "Id": 10,
   "Title": "fd",
   "Content": "\u003Cp\u003Efd\u003C/p\u003E",
-  "Status": "A",
+  "Status": "Nice bloke",
   "Priority": 0,
   "Effort": 100,
   "Type": 1,
@@ -18,7 +18,7 @@
   "LastUpdated": "0001-01-01T00:00:00",
   "Tags": [],
   "Comments": [],
-  "Index": 0,
+  "Index": 1,
   "UsersAssigned": [],
   "DefinitionOfDoneChecklistItems": [],
   "TaskChecklist": [
@@ -137,6 +137,10 @@
     {
       "EntryTime": 1690208965,
       "WorkStateId": "A"
+    },
+    {
+      "EntryTime": 1690213987,
+      "WorkStateId": "Nice bloke"
     }
   ]
 }

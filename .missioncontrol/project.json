@@ -8,8 +8,17 @@
     "Name": "dadasd",
     "WorkStates": [
       {
-        "WorkStateId": 6,
+        "WorkStateId": 7,
         "Index": 0,
+        "Name": "dsfewere",
+        "IsTestable": false,
+        "IsDone": false,
+        "WorkflowId": 1,
+        "DefinitionOfDone": []
+      },
+      {
+        "WorkStateId": 6,
+        "Index": 1,
         "Name": "Nice bloke",
         "IsTestable": false,
         "IsDone": false,
@@ -20,7 +29,7 @@
       },
       {
         "WorkStateId": 5,
-        "Index": 1,
+        "Index": 2,
         "Name": "A",
         "IsTestable": false,
         "IsDone": false,
@@ -29,7 +38,7 @@
       },
       {
         "WorkStateId": 4,
-        "Index": 2,
+        "Index": 3,
         "Name": "Is",
         "IsTestable": false,
         "IsDone": false,
@@ -38,7 +47,7 @@
       },
       {
         "WorkStateId": 3,
-        "Index": 3,
+        "Index": 4,
         "Name": "Jeffery",
         "IsTestable": false,
         "IsDone": false,
@@ -47,7 +56,7 @@
       },
       {
         "WorkStateId": 2,
-        "Index": 4,
+        "Index": 5,
         "Name": "This is a new workstate",
         "IsTestable": false,
         "IsDone": false,
@@ -56,7 +65,7 @@
       },
       {
         "WorkStateId": 1,
-        "Index": 5,
+        "Index": 6,
         "Name": "Done",
         "IsTestable": false,
         "IsDone": true,
@@ -71,33 +80,6 @@
       "Name": "Sprint 1",
       "StartDate": "2023-02-09T16:34:45.6571429+00:00",
       "EndDate": "2023-02-23T16:34:45.6571766+00:00",
-      "Feedback": [],
-      "Ratings": [],
-      "IsCompleted": false
-    },
-    {
-      "Id": 1001,
-      "Name": "Sprint 2",
-      "StartDate": "2023-07-07T00:00:00+01:00",
-      "EndDate": "2023-07-21T00:00:00+01:00",
-      "Feedback": [],
-      "Ratings": [],
-      "IsCompleted": false
-    },
-    {
-      "Id": 1002,
-      "Name": "daa",
-      "StartDate": "2023-07-21T00:00:00",
-      "EndDate": "2023-08-03T00:00:00",
-      "Feedback": [],
-      "Ratings": [],
-      "IsCompleted": false
-    },
-    {
-      "Id": 1003,
-      "Name": "da da",
-      "StartDate": "2023-07-22T00:00:00+01:00",
-      "EndDate": "2023-08-05T00:00:00+01:00",
       "Feedback": [],
       "Ratings": [],
       "IsCompleted": false

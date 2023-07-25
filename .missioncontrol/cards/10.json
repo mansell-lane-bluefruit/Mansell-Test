@@ -17,10 +17,27 @@
   },
   "LastUpdated": "0001-01-01T00:00:00",
   "Tags": [],
-  "Comments": [],
+  "Comments": [
+    {
+      "User": {
+        "Id": "5c480599-fe8c-477a-83b7-d2af62e8822d",
+        "Name": "mansell.lane@bluefruit.co.uk",
+        "Role": "Admin"
+      },
+      "TimeStamp": "2023-07-24T17:02:06.4751268+01:00",
+      "Text": "987"
+    }
+  ],
   "Index": 1,
   "UsersAssigned": [],
-  "DefinitionOfDoneChecklistItems": [],
+  "DefinitionOfDoneChecklistItems": [
+    {
+      "WorkState": "Nice bloke",
+      "ChecklistItem": "gfdggdffdg",
+      "State": false,
+      "Comment": ""
+    }
+  ],
   "TaskChecklist": [
     {
       "TaskName": "ghyukiy",
@@ -140,6 +157,18 @@
     },
     {
       "EntryTime": 1690213987,
+      "WorkStateId": "Nice bloke"
+    },
+    {
+      "EntryTime": 1690214178,
+      "WorkStateId": "This is a new workstate"
+    },
+    {
+      "EntryTime": 1690214194,
+      "WorkStateId": "A"
+    },
+    {
+      "EntryTime": 1690214577,
       "WorkStateId": "Nice bloke"
     }
   ]
